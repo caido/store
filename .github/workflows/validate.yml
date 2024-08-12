@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Validate Schema
-        uses: caido/action-json-schema-validate:3d80261c1f49e8664a6311b08c5809127cfc4a91
+        uses: caido/action-json-schema-validate@3d80261c1f49e8664a6311b08c5809127cfc4a91
         with:
           schema: schema.json
           files: plugin_packages.json
