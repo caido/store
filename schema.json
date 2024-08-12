@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "license": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "author": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string",
+            "format": "email"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": ["name", "email", "url"]
+      },
+      "repository": {
+        "type": "string"
+      }
+    },
+    "required": ["id", "name", "license", "description", "author", "repository"]
+  }
+}
