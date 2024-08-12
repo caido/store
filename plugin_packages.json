@@ -1,7 +1,7 @@
 [
   {
-    "id": "authorize",
-    "name": "Authorize",
+    "id": "autorize",
+    "name": "Autorize",
     "description": "Automated access control testing plugin for Caido",
     "author": {
       "name": "Caido Labs Inc.",
