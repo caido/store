@@ -1,0 +1,13 @@
+[
+  {
+    "id": "authorize",
+    "name": "Authorize",
+    "description": "Automated access control testing plugin for Caido",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://github.com/caido-community/autorize"
+    },
+    "repository": "caido-community/authorize"
+  }
+]
