@@ -2,6 +2,7 @@
   {
     "id": "autorize",
     "name": "Autorize",
+    "license": "MIT",
     "description": "Automated access control testing plugin for Caido",
     "author": {
       "name": "Caido Labs Inc.",

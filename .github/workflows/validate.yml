@@ -1,0 +1,23 @@
+name: Validate Schema
+on:
+  pull_request:
+
+concurrency:
+  group: validate-schema-${{ github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate Schema
+        uses: caido/action-json-schema-validate:3d80261c1f49e8664a6311b08c5809127cfc4a91
+        with:
+          schema: schema.json
+          files: plugin_packages.json
+          fail-on-invalid: true
+          cache-remote-schema: false
