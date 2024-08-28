@@ -1,14 +1,15 @@
 [
   {
-    "id": "autorize",
-    "name": "Autorize",
-    "license": "MIT",
-    "description": "Automated access control testing plugin for Caido",
+    "id": "starterkit-plugin",
+    "name": "StarterKit Plugin",
+    "license": "CC0-1.0",
+    "description": "This is a starterkit plugin",
     "author": {
       "name": "Caido Labs Inc.",
       "email": "dev@caido.io",
       "url": "https://caido.io"
     },
-    "repository": "caido-community/authorize"
+    "public_key": "MCowBQYDK2VwAyEApk8SlAt996j1B5Gu7oqKT5g6G1/YJwltjQqXvoFpTTE=",
+    "repository": "caido/starterkit-plugin"
   }
 ]
