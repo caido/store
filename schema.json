@@ -33,10 +33,21 @@
         },
         "required": ["name", "email", "url"]
       },
+      "public_key": {
+        "type": "string"
+      },
       "repository": {
         "type": "string"
       }
     },
-    "required": ["id", "name", "license", "description", "author", "repository"]
+    "required": [
+      "id",
+      "name",
+      "license",
+      "description",
+      "author",
+      "public_key",
+      "repository"
+    ]
   }
 }
