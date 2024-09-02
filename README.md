@@ -31,18 +31,4 @@ This list will then be queried by the Caido Instances to display them in the `St
 
 ## 🤔 How do I make my plugin available?
 
-For your plugin to be listed in the store you MUST follow the steps outlines below.
-
-### Preparation
-
-At the root of your repository please ensure that you have:
-
-- Have a `manifest.json` file that follows the standard Caido manifest format.
-- Have a `LICENSE` file to describe the licensing of your plugin.
-- Have a `README.md` file to describe the goal and usage of your plugin
-
-### Step 1: Publish to Github
-
-### Step 2: Create a release
-
-### Step 3: Submit plugin for review
+For your plugin to be listed in the store you MUST follow the [steps outlined in our documentation](https://docs.caido.io/concepts/plugins/store.html).
