@@ -11,5 +11,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEApk8SlAt996j1B5Gu7oqKT5g6G1/YJwltjQqXvoFpTTE=",
     "repository": "caido/starterkit-plugin"
+  },
+  {
+    "id": "authmatrix",
+    "name": "AuthMatrix",
+    "license": "CC0-1.0",
+    "description": "Grid-based authorization testing across multiple users and roles.",
+    "author": {
+      "name": "Caido",
+      "email": "info@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+du2fw/I+CV6MKEpu0aJ1ki2+MO2V0SnaRB91+GbHwQ=",
+    "repository": "caido-community/authmatrix"
   }
 ]
