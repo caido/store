@@ -18,8 +18,8 @@
     "license": "CC0-1.0",
     "description": "Grid-based authorization testing across multiple users and roles.",
     "author": {
-      "name": "Caido",
-      "email": "info@caido.io",
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
       "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEA+du2fw/I+CV6MKEpu0aJ1ki2+MO2V0SnaRB91+GbHwQ=",
