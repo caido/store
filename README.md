@@ -31,4 +31,4 @@ This list will then be queried by the Caido Instances to display them in the `St
 
 ## 🤔 How do I make my plugin available?
 
-For your plugin to be listed in the store you MUST follow the [steps outlined in our documentation](https://docs.caido.io/concepts/plugins/store.html).
+For your plugin to be listed in the store you MUST follow the [steps outlined in our documentation](https://developer.caido.io/guides/distribution/store.html).
