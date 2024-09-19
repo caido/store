@@ -24,5 +24,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA+du2fw/I+CV6MKEpu0aJ1ki2+MO2V0SnaRB91+GbHwQ=",
     "repository": "caido-community/authmatrix"
+  },
+  {
+    "id": "bypasser",
+    "name":"403Bypasser",
+    "license": "CC0-1.0",
+    "description": "Bypass a 403 page with a set of templates",
+    "author": {
+      "name": "bebiks",
+      "email": "bebiks@cvssadvisor.com",
+      "url": "http://x.com/bebiksior"
+    },
+    "public_key":"MCowBQYDK2VwAyEA7hd15kPWlDAzJmMXXFRbVDD83T+0AWVk6OlgLwAgwFQ=",
+    "repository": "bebiksior/Caido403Bypasser"
   }
 ]
