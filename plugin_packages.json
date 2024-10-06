@@ -50,5 +50,18 @@
     },
     "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
     "repository": "bebiksior/EvenBetter"
+  },
+  {
+    "id": "caido-themes",
+    "name":"Caido Themes",
+    "license": "CC0-1.0",
+    "description": "A plugin for managing and customizing themes in Caido",
+    "author": {
+      "name": "bebiks",
+      "email": "bebiks@cvssadvisor.com",
+      "url": "http://x.com/bebiksior"
+    },
+    "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
+    "repository": "bebiksior/CaidoThemes"
   }
 ]
