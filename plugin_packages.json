@@ -39,6 +39,20 @@
     "repository": "bebiksior/Caido403Bypasser"
   },
   {
+    "id": "evenbetter",
+    "name":"EvenBetter",
+    "license": "CC0-1.0",
+    "description": "Collection of tweaks and improvements for Caido",
+    "author": {
+      "name": "bebiks",
+      "email": "bebiks@cvssadvisor.com",
+      "url": "http://x.com/bebiksior"
+    },
+    "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
+    "repository": "bebiksior/EvenBetter"
+  },
+  {
+
     "id": "caido-themes",
     "name":"Caido Themes",
     "license": "CC0-1.0",
