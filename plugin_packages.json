@@ -63,5 +63,18 @@
     },
     "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
     "repository": "bebiksior/CaidoThemes"
+  },
+  {
+    "id": "cursor-pen",
+    "name": "Screening Drawing",
+    "license": "MIT",
+    "description": "A plugin that turns the cursor into a drawing pen",
+    "author": {
+      "name": "Tur24Tur / BugBountyZip",
+      "email": "no-reply@NoBugEscapes.com",
+      "url": "https://github.com/BugBountyzip"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+kw/aGY+CpXIbOD6pjtwugdRbc59+yp7Ep/7ENr2xXc=",
+    "repository": "BugBountyzip/CaidoDrawing"
   }
 ]
