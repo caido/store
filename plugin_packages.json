@@ -67,7 +67,6 @@
   {
     "id": "cursor-pen",
     "name": "Screening Drawing",
-    "version": "2.0.3",
     "license": "CC0-1.0",
     "description": "A plugin that turns the cursor into a drawing pen",
     "author": {
@@ -76,6 +75,6 @@
       "url": "https://github.com/BugBountyzip"
     },
     "public_key": "MCowBQYDK2VwAyEA+kw/aGY+CpXIbOD6pjtwugdRbc59+yp7Ep/7ENr2xXc=",
-    "repository": "BugBountyzip/cursor-pen"
+    "repository": "BugBountyzip/CaidoDrawing"
   }
 ]
