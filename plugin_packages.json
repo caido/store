@@ -67,7 +67,7 @@
   {
     "id": "cursor-pen",
     "name": "Screening Drawing",
-    "license": "CC0-1.0",
+    "license": "MIT",
     "description": "A plugin that turns the cursor into a drawing pen",
     "author": {
       "name": "Tur24Tur / BugBountyZip",
