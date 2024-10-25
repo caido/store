@@ -1,18 +1,5 @@
 [
   {
-    "id": "starterkit-plugin",
-    "name": "StarterKit Plugin",
-    "license": "CC0-1.0",
-    "description": "This is a starterkit plugin",
-    "author": {
-      "name": "Caido Labs Inc.",
-      "email": "dev@caido.io",
-      "url": "https://caido.io"
-    },
-    "public_key": "MCowBQYDK2VwAyEApk8SlAt996j1B5Gu7oqKT5g6G1/YJwltjQqXvoFpTTE=",
-    "repository": "caido/starterkit-plugin"
-  },
-  {
     "id": "authmatrix",
     "name": "AuthMatrix",
     "license": "CC0-1.0",
@@ -66,7 +53,7 @@
   },
   {
     "id": "cursor-pen",
-    "name": "Screening Drawing",
+    "name": "Screen Drawing",
     "license": "MIT",
     "description": "A plugin that turns the cursor into a drawing pen",
     "author": {
