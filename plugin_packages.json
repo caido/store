@@ -63,5 +63,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA+kw/aGY+CpXIbOD6pjtwugdRbc59+yp7Ep/7ENr2xXc=",
     "repository": "BugBountyzip/CaidoDrawing"
+  },
+  {
+    "id": "pwnfox",
+    "name": "Pwnfox",
+    "license": "MIT",
+    "description": "Integration with the PwnFox browser extension",
+    "author": {
+      "name": "SyzikSecu",
+      "email": "",
+      "url": ""
+    },
+    "public_key": "MCowBQYDK2VwAyEA0zDx1tIO7S/d+AYFjLLmTA6pvuEyf+70KfcgVi1DNhc=",
+    "repository": "john/my-unique-plugin"
   }
 ]
