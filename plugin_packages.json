@@ -66,15 +66,15 @@
   },
   {
     "id": "pwnfox",
-    "name": "Pwnfox",
+    "name": "PwnFox",
     "license": "MIT",
     "description": "Integration with the PwnFox browser extension",
     "author": {
       "name": "SyzikSecu",
-      "email": "",
-      "url": ""
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "public_key": "MCowBQYDK2VwAyEA0zDx1tIO7S/d+AYFjLLmTA6pvuEyf+70KfcgVi1DNhc=",
-    "repository": "john/my-unique-plugin"
+    "public_key": "MCowBQYDK2VwAyEAem6BUDCmUq6mYywI8qPIy59tLVwdA4mtANoR721TwN0=",
+    "repository": "caido-community/pwnfox"
   }
 ]
