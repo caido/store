@@ -76,5 +76,17 @@
     },
     "public_key": "MCowBQYDK2VwAyEAem6BUDCmUq6mYywI8qPIy59tLVwdA4mtANoR721TwN0=",
     "repository": "caido-community/pwnfox"
+  },{
+    "id": "csrf-generator",
+    "name": "CSRF PoC Generator",
+    "license": "GPL-3.0",
+    "description": "Generate CSRF Proof of Concept payloads from requests",
+    "author": {
+      "name": "Tur24Tur / BugBountyZip",
+      "email": "no-reply@NoBugEscapes.com",
+      "url": "https://github.com/BugBountyzip"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+kw/aGY+CpXIbOD6pjtwugdRbc59+yp7Ep/7ENr2xXc=",
+    "repository": "BugBountyzip/CaidoCSRF"
   }
 ]
