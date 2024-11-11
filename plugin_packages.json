@@ -88,5 +88,17 @@
     },
     "public_key": "MCowBQYDK2VwAyEAWLm77+OCoRDKskiz++JIEXWLWZU69REiWBD8iPTlPzI=",
     "repository": "BugBountyzip/CaidoCSRF"
+  },{
+    "id": "font-selector",
+    "name": "Font Selector",
+    "license": "GPL-3.0",
+    "description": "Customize Caido's interface with different fonts and text effects, including custom font uploads and animations",
+    "author": {
+      "name": "Tur24Tur / BugBountyZip",
+      "email": "no-reply@NoBugEscapes.com",
+      "url": "https://github.com/BugBountyzip"
+    },
+    "public_key": "MCowBQYDK2VwAyEAEkwo09jye0OavdTW7SeBwmMRo3cjVEHc666Yn271Ns8=",
+    "repository": "BugBountyzip/CaidoFonts"
   }
 ]
