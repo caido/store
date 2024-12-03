@@ -100,5 +100,17 @@
     },
     "public_key": "MCowBQYDK2VwAyEAEkwo09jye0OavdTW7SeBwmMRo3cjVEHc666Yn271Ns8=",
     "repository": "BugBountyzip/CaidoFonts"
+  },{
+    "id": "quickssrf",
+    "name": "QuickSSRF",
+    "license": "MIT",
+    "description": "Real-time Interaction Monitoring with Interactsh",
+    "author": {
+      "name": "w2xim3",
+      "email": "dev@caido.io",
+      "url": "https://github.com/caido-community/quickssrf"
+    },
+    "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
+    "repository": "caido-community/quickssrf"
   }
 ]
