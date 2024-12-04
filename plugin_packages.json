@@ -14,7 +14,7 @@
   },
   {
     "id": "bypasser",
-    "name":"403Bypasser",
+    "name": "403Bypasser",
     "license": "CC0-1.0",
     "description": "Bypass a 403 page with a set of templates",
     "author": {
@@ -22,12 +22,12 @@
       "email": "bebiks@cvssadvisor.com",
       "url": "http://x.com/bebiksior"
     },
-    "public_key":"MCowBQYDK2VwAyEA7hd15kPWlDAzJmMXXFRbVDD83T+0AWVk6OlgLwAgwFQ=",
+    "public_key": "MCowBQYDK2VwAyEA7hd15kPWlDAzJmMXXFRbVDD83T+0AWVk6OlgLwAgwFQ=",
     "repository": "bebiksior/Caido403Bypasser"
   },
   {
     "id": "evenbetter",
-    "name":"EvenBetter",
+    "name": "EvenBetter",
     "license": "CC0-1.0",
     "description": "Collection of tweaks and improvements for Caido",
     "author": {
@@ -35,12 +35,12 @@
       "email": "bebiks@cvssadvisor.com",
       "url": "http://x.com/bebiksior"
     },
-    "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
+    "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
     "repository": "bebiksior/EvenBetter"
   },
   {
     "id": "caido-themes",
-    "name":"Caido Themes",
+    "name": "Caido Themes",
     "license": "CC0-1.0",
     "description": "A plugin for managing and customizing themes in Caido",
     "author": {
@@ -48,7 +48,7 @@
       "email": "bebiks@cvssadvisor.com",
       "url": "http://x.com/bebiksior"
     },
-    "public_key":"MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
+    "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
     "repository": "bebiksior/CaidoThemes"
   },
   {
@@ -76,7 +76,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAem6BUDCmUq6mYywI8qPIy59tLVwdA4mtANoR721TwN0=",
     "repository": "caido-community/pwnfox"
-  },{
+  },
+  {
     "id": "csrf-generator",
     "name": "CSRF PoC Generator",
     "license": "GPL-3.0",
@@ -88,7 +89,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAWLm77+OCoRDKskiz++JIEXWLWZU69REiWBD8iPTlPzI=",
     "repository": "BugBountyzip/CaidoCSRF"
-  },{
+  },
+  {
     "id": "font-selector",
     "name": "Font Selector",
     "license": "GPL-3.0",
@@ -100,7 +102,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAEkwo09jye0OavdTW7SeBwmMRo3cjVEHc666Yn271Ns8=",
     "repository": "BugBountyzip/CaidoFonts"
-  },{
+  },
+  {
     "id": "quickssrf",
     "name": "QuickSSRF",
     "license": "MIT",
