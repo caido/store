@@ -116,7 +116,7 @@
   {
     "id": "notesplusplus",
     "name": "CaidoNotesPlusPlus",
-    "license": "CC0-1.0 license",
+    "license": "MIT",
     "description": "Caido plugin for markdown based notes",
     "author": {
       "name": "StaticFlow",
