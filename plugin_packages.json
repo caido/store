@@ -112,5 +112,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
     "repository": "caido-community/quickssrf"
+  },
+  {
+    "id": "notesplusplus",
+    "name": "CaidoNotesPlusPlus",
+    "license": "CC0-1.0 license",
+    "description": "Caido plugin for markdown based notes",
+    "author": {
+      "name": "StaticFlow",
+      "email": "tanner.barnes@kashx.io",
+      "url": "https://github.com/Static-Flow/CaidoNotesPlusPlus"
+    },
+    "public_key": "MCowBQYDK2VwAyEAo1oWyQvff1+B5iaUVhXZYd/LObrOqghmF5fMeInpMGk=",
+    "repository": "Static-Flow/CaidoNotesPlusPlus"
   }
 ]
