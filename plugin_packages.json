@@ -128,5 +128,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAo1oWyQvff1+B5iaUVhXZYd/LObrOqghmF5fMeInpMGk=",
     "repository": "Static-Flow/CaidoNotesPlusPlus"
+  },
+  {
+    "id": "convert-tools",
+    "name": "Convert Tools",
+    "license": "MIT",
+    "description": "Collection of tools for encoding, decoding, and data format conversions",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA7cz05/tcC0VSXraEKljg+xMrSEHbjmkeRdyfDOk08GE=",
+    "repository": "caido-community/convert-tools"
   }
 ]
