@@ -141,5 +141,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA7cz05/tcC0VSXraEKljg+xMrSEHbjmkeRdyfDOk08GE=",
     "repository": "caido-community/convert-tools"
+  },
+  {
+    "id": "shift",
+    "name": "Shift",
+    "license": "ELv2+Mod",
+    "description": "Seamless AI Integration into Caido.",
+    "author": {
+      "name": "JThacker & CRITSoftware",
+      "email": "justin@criticalthinkingpodcast.io",
+      "url": "https://shiftwaitlist.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAk0JE8EP+IL5xMR/AR87U0n/5ttEJTQInsWDsiQYhnGs=",
+    "repository": "CRITSoftware/shift"
   }
 ]
