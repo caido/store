@@ -154,5 +154,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAk0JE8EP+IL5xMR/AR87U0n/5ttEJTQInsWDsiQYhnGs=",
     "repository": "CRITSoftware/shift"
+  },
+  {
+    "id": "paramfinder-plugin",
+    "name": "ParamFinder",
+    "license": "CC0-1.0",
+    "description": "Discover hidden parameters in Caido",
+    "author": {
+      "name": "bebiks",
+      "email": "bebiks@cvssadvisor.com",
+      "url": "http://x.com/bebiksior"
+    },
+    "public_key": "MCowBQYDK2VwAyEAsyIyiFphSDMT0eu4fGKRVILeKU3gI5reVMrftBhYkXU=",
+    "repository": "bebiksior/ParamFinder"
   }
 ]
