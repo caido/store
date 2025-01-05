@@ -167,5 +167,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAsyIyiFphSDMT0eu4fGKRVILeKU3gI5reVMrftBhYkXU=",
     "repository": "bebiksior/ParamFinder"
+  },
+  {
+    "id": "devtools",
+    "name": "DevTools",
+    "license": "MIT",
+    "description": "Hot-reloading for faster Caido plugin development",
+    "author": {
+        "name": "Caido Labs Inc.",
+        "email": "dev@caido.io",
+        "url": "https://caido.io"
+    },
+    "public_key":"MCowBQYDK2VwAyEAZYlZX2mMM/v+N45u4PbAl5WOICfZHbK2rRMmVD/ZAVs=",
+    "repository": "caido-community/devtools"
   }
 ]
