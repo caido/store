@@ -180,5 +180,18 @@
     },
     "public_key":"MCowBQYDK2VwAyEAZYlZX2mMM/v+N45u4PbAl5WOICfZHbK2rRMmVD/ZAVs=",
     "repository": "caido-community/devtools"
+  },
+  {
+    "id": "workflows-store",
+    "name": "Workflows Store",
+    "license": "MIT",
+    "description": "Collection of community-built workflows",
+    "author": {
+        "name": "Caido Labs Inc.",
+        "email": "dev@caido.io",
+        "url": "https://caido.io"
+    },
+    "public_key":"MCowBQYDK2VwAyEAfqyimGX/rO9Cq+O/xnSVZTKiN6xlDVDmGpSjU78r8hs=",
+    "repository": "caido-community/workflows"
   }
 ]
