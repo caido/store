@@ -193,5 +193,18 @@
     },
     "public_key":"MCowBQYDK2VwAyEAfqyimGX/rO9Cq+O/xnSVZTKiN6xlDVDmGpSjU78r8hs=",
     "repository": "caido-community/workflows"
+  },
+  {
+    "id": "jxscout-caido",
+    "name": "JXScout",
+    "license": "MIT",
+    "description": "Plugin to ingest requests from Caido into jxscout",
+    "author": {
+      "name": "Francisco Neves",
+      "email": "dev@caido.io",
+      "url": "https://github.com/francisconeves97"
+    },
+    "public_key": "MCowBQYDK2VwAyEAMqk0FKdu51rkKM7KOPHS9talB12F2lFFK4QIoXPfQYU=",
+    "repository": "francisconeves97/jxscout-caido"
   }
 ]
