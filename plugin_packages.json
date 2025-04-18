@@ -206,5 +206,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAMqk0FKdu51rkKM7KOPHS9talB12F2lFFK4QIoXPfQYU=",
     "repository": "francisconeves97/jxscout-caido"
+  },
+  {
+    "id": "grep",
+    "name": "Data Grep",
+    "license": "MIT",
+    "description": "Extract data from your requests and responses",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAbmVKtAeD4qLKh+ckuUFRw/j/9AcVMkl8tX2BUQON6BY=",
+    "repository": "caido-community/data-grep"
   }
 ]
