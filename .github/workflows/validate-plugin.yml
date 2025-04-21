@@ -139,7 +139,7 @@ jobs:
         id: manifest-validation-id
         working-directory: main
         run: |
-          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip)
+          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip manifest.json)
           MANIFEST_ID=$(echo "$MANIFEST" | jq -r '.id')
           if [ "$MANIFEST_ID" != "${{ steps.unsafe-plugin-info.outputs.plugin_id }}" ]; then
             echo "is_valid=false" >> $GITHUB_OUTPUT
@@ -151,7 +151,7 @@ jobs:
         id: manifest-validation-version
         working-directory: main
         run: |
-          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip)
+          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip manifest.json)
           MANIFEST_VERSION=$(echo "$MANIFEST" | jq -r '.version')
           if [ "$MANIFEST_VERSION" != "${{ steps.release.outputs.tag_name }}" ]; then
             echo "is_valid=false" >> $GITHUB_OUTPUT
