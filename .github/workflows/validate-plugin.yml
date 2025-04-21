@@ -186,6 +186,7 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Comment on PR
+        working-directory: main
         run: |
           # Post comment using gh CLI
           echo "${{ steps.generate-comment.outputs.comment }}" | gh pr comment ${{ inputs.pr_number }} --body-file -
