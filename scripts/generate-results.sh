@@ -7,11 +7,19 @@ PLUGIN_NAME="$1"
 VERSION="$2"
 OWNER="$3"
 REPO="$4"
-VERSION_MATCH="$5"
-ID_MATCH="$6"
+
+# Checks
+ID_MATCH="$5"
+VERSION_MATCH="$6"
 README_PRESENT="$7"
 REQUIRED_ARTIFACTS="$8"
 SIGNATURE_VALID="$9"
+
+# Output header
+echo "## Plugin Validation Results for $PLUGIN_NAME v$VERSION"
+echo
+echo "**Repository:** [$OWNER/$REPO](https://github.com/$OWNER/$REPO)"
+echo
 
 # Build check list
 CHECKS=(
@@ -22,22 +30,13 @@ CHECKS=(
   "Signature Validation=$SIGNATURE_VALID"
 )
 
-# Format check list with emojis
-CHECK_LIST=""
+# Output check results
 for check in "${CHECKS[@]}"; do
   NAME=$(echo "$check" | cut -d= -f1)
   STATUS=$(echo "$check" | cut -d= -f2)
-  echo "$NAME: $STATUS"
   if [ "$STATUS" = "true" ]; then
-    CHECK_LIST+="✅ $NAME\n"
+    echo "✅ $NAME"
   else
-    CHECK_LIST+="❌ $NAME\n"
+    echo "❌ $NAME"
   fi
-done
-
-# Create comment with proper multiline formatting
-echo "## Plugin Validation Results for $PLUGIN_NAME v$VERSION
-
-**Repository:** [$OWNER/$REPO](https://github.com/$OWNER/$REPO)
-
-$CHECK_LIST" 
+done 
