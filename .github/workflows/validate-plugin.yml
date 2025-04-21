@@ -71,7 +71,7 @@ jobs:
           fi
           
           # Validate plugin ID format
-          if ! [[ "$PLUGIN_PUBLIC_KEY" =~ ^[a-zA-Z0-9+=]*$ ]]; then
+          if ! [[ "$PLUGIN_PUBLIC_KEY" =~ ^[a-zA-Z0-9/+=]*$ ]]; then
             echo "Error: Invalid public key format: $PLUGIN_PUBLIC_KEY"
             exit 1
           fi
