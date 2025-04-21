@@ -59,7 +59,7 @@ jobs:
           fi
           
           # Validate plugin name format
-          if ! [[ "$PLUGIN_NAME" =~ ^[a-zA-Z0-9._- ]*$ ]]; then
+          if ! [[ "$PLUGIN_NAME" =~ ^[a-zA-Z0-9._-\ ]*$ ]]; then
             echo "Error: Invalid plugin name format: $PLUGIN_NAME"
             exit 1
           fi
