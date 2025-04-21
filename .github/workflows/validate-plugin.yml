@@ -129,7 +129,7 @@ jobs:
         id: sig-validation
         working-directory: main
         run: |
-          if ./scripts/validate-signature.sh artifacts/plugin_package.zip ../pr/artifacts/plugin_package.zip.sig "${{ steps.unsafe-plugin-info.outputs.public_key }}"; then
+          if ./scripts/validate-signature.sh ../pr/artifacts/plugin_package.zip ../pr/artifacts/plugin_package.zip.sig "${{ steps.unsafe-plugin-info.outputs.public_key }}"; then
             echo "signature_valid=true" >> $GITHUB_OUTPUT
           else
             echo "signature_valid=false" >> $GITHUB_OUTPUT
