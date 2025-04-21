@@ -129,21 +129,34 @@ jobs:
         id: sig-validation
         working-directory: main
         run: |
-          if ./scripts/validate-signature.sh artifacts/plugin_package.zip artifacts/plugin_package.zip.sig "${{ steps.unsafe-plugin-info.outputs.public_key }}"; then
+          if ./scripts/validate-signature.sh artifacts/plugin_package.zip ../pr/artifacts/plugin_package.zip.sig "${{ steps.unsafe-plugin-info.outputs.public_key }}"; then
             echo "signature_valid=true" >> $GITHUB_OUTPUT
           else
             echo "signature_valid=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Validate manifest
-        id: manifest-validation
+      - name: Validate manifest ID
+        id: manifest-validation-id
         working-directory: main
         run: |
-          RELEASE_VERSION="${{ steps.release.outputs.tag_name }}"
-          if ./scripts/validate-manifest.sh artifacts/plugin_package.zip "$RELEASE_VERSION" "${{ steps.unsafe-plugin-info.outputs.plugin_id }}"; then
-            echo "manifest_valid=true" >> $GITHUB_OUTPUT
+          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip)
+          MANIFEST_ID=$(echo "$MANIFEST" | jq -r '.id')
+          if [ "$MANIFEST_ID" != "${{ steps.unsafe-plugin-info.outputs.plugin_id }}" ]; then
+            echo "is_valid=false" >> $GITHUB_OUTPUT
           else
-            echo "manifest_valid=false" >> $GITHUB_OUTPUT
+            echo "is_valid=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Validate manifest version
+        id: manifest-validation-version
+        working-directory: main
+        run: |
+          MANIFEST=$(unzip -p ../pr/artifacts/plugin_package.zip)
+          MANIFEST_VERSION=$(echo "$MANIFEST" | jq -r '.version')
+          if [ "$MANIFEST_VERSION" != "${{ steps.release.outputs.tag_name }}" ]; then
+            echo "is_valid=false" >> $GITHUB_OUTPUT
+          else
+            echo "is_valid=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Check for README in plugin repository
@@ -157,6 +170,7 @@ jobs:
 
       - name: Check required artifacts
         id: artifacts-check
+        working-directory: pr
         run: |
           if [ -f "artifacts/plugin_package.zip" ] && [ -f "artifacts/plugin_package.zip.sig" ]; then
             echo "has_required_artifacts=true" >> $GITHUB_OUTPUT
@@ -174,8 +188,8 @@ jobs:
             "${{ steps.release.outputs.tag_name }}" \
             "${{ steps.unsafe-plugin-info.outputs.plugin_owner }}" \
             "${{ steps.unsafe-plugin-info.outputs.plugin_repo }}" \
-            "${{ steps.manifest-validation.outputs.manifest_valid }}" \
-            "${{ steps.manifest-validation.outputs.manifest_valid }}" \
+            "${{ steps.manifest-validation-id.outputs.is_valid }}" \
+            "${{ steps.manifest-validation-version.outputs.is_valid }}" \
             "${{ steps.readme-check.outputs.has_readme }}" \
             "${{ steps.artifacts-check.outputs.has_required_artifacts }}" \
             "${{ steps.sig-validation.outputs.signature_valid }}")

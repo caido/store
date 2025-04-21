@@ -25,6 +25,18 @@ echo "-----BEGIN PUBLIC KEY-----" > "$PUBKEY_FILE"
 echo "$PUBLIC_KEY" >> "$PUBKEY_FILE"
 echo "-----END PUBLIC KEY-----" >> "$PUBKEY_FILE"
 
+# Check signature file
+if [ ! -f "$SIGNATURE_FILE" ]; then
+    echo "Signature file not found"
+    exit 1
+fi
+
+# Check plugin package
+if [ ! -f "$PLUGIN_PACKAGE" ]; then
+    echo "Plugin package not found"
+    exit 1
+fi
+
 # Validate signature
 if openssl pkeyutl -verify -pubin -inkey "$PUBKEY_FILE" -sigfile "$SIGNATURE_FILE" -in "$PLUGIN_PACKAGE" -rawin; then
     echo "Signature is valid"
