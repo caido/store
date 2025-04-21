@@ -15,18 +15,19 @@ SIGNATURE_VALID="$9"
 
 # Build check list
 CHECKS=(
-  "Version Match: $VERSION_MATCH"
-  "ID Match: $ID_MATCH"
-  "README Present: $README_PRESENT"
-  "Required Artifacts: $REQUIRED_ARTIFACTS"
-  "Signature Validation: $SIGNATURE_VALID"
+  "Version Match=$VERSION_MATCH"
+  "ID Match=$ID_MATCH"
+  "README Present=$README_PRESENT"
+  "Required Artifacts=$REQUIRED_ARTIFACTS"
+  "Signature Validation=$SIGNATURE_VALID"
 )
 
 # Format check list with emojis
 CHECK_LIST=""
 for check in "${CHECKS[@]}"; do
-  NAME=$(echo "$check" | cut -d: -f1)
-  STATUS=$(echo "$check" | cut -d: -f2)
+  NAME=$(echo "$check" | cut -d= -f1)
+  STATUS=$(echo "$check" | cut -d= -f2)
+  echo "$NAME: $STATUS"
   if [ "$STATUS" = "true" ]; then
     CHECK_LIST+="✅ $NAME\n"
   else
