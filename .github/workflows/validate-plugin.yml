@@ -187,11 +187,7 @@ jobs:
               `${check.status ? '✅' : '❌'} ${check.name}: ${check.message}`
             ).join('\n');
             
-            const comment = `## Plugin Validation Results for ${pluginName} v${releaseVersion}
-
-**Repository:** [${pluginRepo}](${repoUrl})
-
-${checkList}`;
+            const comment = `## Plugin Validation Results for ${pluginName} v${releaseVersion}\n\n**Repository:** [${pluginRepo}](${repoUrl})\n\n${checkList}`;
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
