@@ -15,11 +15,14 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Checkout PR
+
         run: gh pr checkout ${{ inputs.pr_number }}
 
       - name: Get plugin entry and validate repository
