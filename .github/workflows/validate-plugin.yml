@@ -18,15 +18,20 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          path: main
 
       - name: Checkout PR
-
-        run: gh pr checkout ${{ inputs.pr_number }}
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.pr_number }}
+          path: pr
 
       - name: Get plugin entry and validate repository
         id: unsafe-plugin-info
+        working-directory: pr
         run: |
           # Get plugin entry
           PLUGIN_ID="${{ inputs.plugin_id }}"
@@ -108,6 +113,7 @@ jobs:
           echo "signature_url=$SIGNATURE_URL" >> $GITHUB_OUTPUT
 
       - name: Download release artifacts
+        working-directory: pr
         run: |
           mkdir -p artifacts
           cd artifacts
@@ -118,6 +124,7 @@ jobs:
 
       - name: Validate signature
         id: sig-validation
+        working-directory: main
         run: |
           if ./scripts/validate-signature.sh artifacts/plugin_package.zip artifacts/plugin_package.zip.sig "${{ steps.unsafe-plugin-info.outputs.public_key }}"; then
             echo "signature_valid=true" >> $GITHUB_OUTPUT
@@ -127,6 +134,7 @@ jobs:
 
       - name: Validate manifest
         id: manifest-validation
+        working-directory: main
         run: |
           RELEASE_VERSION="${{ steps.release.outputs.tag_name }}"
           if ./scripts/validate-manifest.sh artifacts/plugin_package.zip "$RELEASE_VERSION" "${{ steps.unsafe-plugin-info.outputs.plugin_id }}"; then
@@ -155,6 +163,7 @@ jobs:
 
       - name: Generate validation results comment
         id: generate-comment
+        working-directory: main
         run: |
           # Generate the comment using the script
           COMMENT=$(./scripts/generate-results.sh \
