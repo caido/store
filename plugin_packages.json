@@ -219,5 +219,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAbmVKtAeD4qLKh+ckuUFRw/j/9AcVMkl8tX2BUQON6BY=",
     "repository": "caido-community/data-grep"
+  },
+  {
+    "id": "methodcheck",
+    "name": "MethodCheck",
+    "license": "MIT",
+    "description": "Discover available HTTP methods for a given endpoint",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads.dawson@owasp.org",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAybaGFUMzku398Ij7Ts7Jgg81PV7bamBwshd5zzTecx8=",
+    "repository": "GangGreenTemperTatum/MethodCheck"
   }
 ]
