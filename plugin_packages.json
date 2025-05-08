@@ -219,5 +219,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAbmVKtAeD4qLKh+ckuUFRw/j/9AcVMkl8tX2BUQON6BY=",
     "repository": "caido-community/data-grep"
+  },
+  {
+    "id": "drop",
+    "name": "Drop",
+    "license": "MIT",
+    "description": "Easy collaboration within Caido",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "justin@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA18AIEbzfWxfEtqxZrn/1b0CQ3O7FpJCNd+WwiCtIaJ4=",
+    "repository": "caido-community/drop"
   }
 ]
