@@ -118,7 +118,7 @@
   },
   {
     "id": "notesplusplus",
-    "name": "CaidoNotesPlusPlus",
+    "name": "Notes++",
     "license": "MIT",
     "description": "Caido plugin for markdown based notes",
     "author": {
@@ -127,7 +127,7 @@
       "url": "https://twitter.com/_StaticFlow_"
     },
     "public_key": "MCowBQYDK2VwAyEAo1oWyQvff1+B5iaUVhXZYd/LObrOqghmF5fMeInpMGk=",
-    "repository": "Static-Flow/CaidoNotesPlusPlus"
+    "repository": "caido-community/NotesPlusPlus"
   },
   {
     "id": "convert-tools",
@@ -174,11 +174,11 @@
     "license": "MIT",
     "description": "Hot-reloading for faster Caido plugin development",
     "author": {
-        "name": "Caido Labs Inc.",
-        "email": "dev@caido.io",
-        "url": "https://caido.io"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "public_key":"MCowBQYDK2VwAyEAZYlZX2mMM/v+N45u4PbAl5WOICfZHbK2rRMmVD/ZAVs=",
+    "public_key": "MCowBQYDK2VwAyEAZYlZX2mMM/v+N45u4PbAl5WOICfZHbK2rRMmVD/ZAVs=",
     "repository": "caido-community/devtools"
   },
   {
@@ -187,11 +187,11 @@
     "license": "MIT",
     "description": "Collection of community-built workflows",
     "author": {
-        "name": "Caido Labs Inc.",
-        "email": "dev@caido.io",
-        "url": "https://caido.io"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "public_key":"MCowBQYDK2VwAyEAfqyimGX/rO9Cq+O/xnSVZTKiN6xlDVDmGpSjU78r8hs=",
+    "public_key": "MCowBQYDK2VwAyEAfqyimGX/rO9Cq+O/xnSVZTKiN6xlDVDmGpSjU78r8hs=",
     "repository": "caido-community/workflows"
   },
   {
