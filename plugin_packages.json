@@ -232,5 +232,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA18AIEbzfWxfEtqxZrn/1b0CQ3O7FpJCNd+WwiCtIaJ4=",
     "repository": "caido-community/drop"
+  },
+  {
+    "id": "squash",
+    "name": "Squash",
+    "license": "MIT",
+    "description": "Request Minimizer for Caido",
+    "author": {
+      "name": "Evan Connelly",
+      "email": "evan@evanconnelly.com",
+      "url": "https://evanconnelly.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEACD0ZC+Cw5ielTgSspgN5aVHMEkamTSqj9pJie5RHWyc=",
+    "repository": "evanconnelly/squash"
   }
 ]
