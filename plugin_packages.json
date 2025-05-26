@@ -234,6 +234,19 @@
     "repository": "caido-community/drop"
   },
   {
+    "id": "jwt-analyzer",
+    "name": "JWT Analyzer",
+    "license": "MIT",
+    "description": "Detect, analyze, test and Attack JSON Web Tokens in web traffic",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAXru6JmKshtb2uZYF2VgLSoDFtARq6T05orqbv8JqYXk=",
+    "repository": "amrelsagaei/JWT-Analyzer"
+  }, 
+  {
     "id": "squash",
     "name": "Squash",
     "license": "MIT",
