@@ -271,5 +271,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA814pfexgpP7LMgxrKQvsyREjDiqmZDGpwA/5PXY08wM=",
     "repository": "stealthcopter/CaidoExploitGenerator"
+  },
+  {
+    "id": "yeswecaido",
+    "name": "YesWeCaido",
+    "license": "MIT",
+    "description": "Interact with YesWeHack's API to fetch your bug bounty programs.",
+    "author": {
+      "name": "yeswehack",
+      "email": "support@yeswehack.com",
+      "url": "https://www.yeswehack.com/"
+    },
+    "public_key": "MCowBQYDK2VwAyEAO26EMwX4yA3RdYKT0FFGN3n5kUynF5SVFxNrLWc6ZsM=",
+    "repository": "yeswehack/yeswecaido"
   }
 ]
