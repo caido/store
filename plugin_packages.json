@@ -284,5 +284,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAO26EMwX4yA3RdYKT0FFGN3n5kUynF5SVFxNrLWc6ZsM=",
     "repository": "yeswehack/yeswecaido"
-  }
+  },
+  {
+  "id": "chatio",
+  "name": "Chatio",
+  "license": "MIT",
+  "description": "An AI-powered assistant for hackers and security professionals built for Caido",
+  "author": {
+    "name": "Amr Elsagaei",
+    "email": "info@amrelsagaei.com",
+    "url": "https://amrelsagaei.com"
+  },
+  "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
+  "repository": "amrelsagaei/Chatio"
+}
 ]
