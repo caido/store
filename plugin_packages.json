@@ -284,5 +284,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAO26EMwX4yA3RdYKT0FFGN3n5kUynF5SVFxNrLWc6ZsM=",
     "repository": "yeswehack/yeswecaido"
+  },
+  {
+    "id": "cerebrum",
+    "name": "Cerebrum",
+    "license": "MIT",
+    "description": "A simple organizer-like plugin for Caido to help you manage, annotate, and sort HTTP requests.",
+    "author": {
+      "name": "DewSecOff",
+      "email": "DewSecOff@protonmail.com",
+      "url": "https://github.com/DewSecOff/Caido-Plugin-Cerebrum"
+    },
+    "public_key": "MCowBQYDK2VwAyEASa/hE1TRgfQyCRzmVTR1FHxjXtT3Pe+khlSlq81AlUY=",
+    "repository": "DewSecOff/Caido-Plugin-Cerebrum"
   }
 ]
