@@ -273,6 +273,19 @@
     "repository": "stealthcopter/CaidoExploitGenerator"
   },
   {
+    "id": "caido-newrequests",
+    "name": "NewRequests",
+    "license": "MIT",
+    "description": "Provides a hotkey (default cmd+n) to apply a HTTPQL query for new requests (`row.id.gt:<current last request>`)",
+    "author": {
+      "name": "Martin Haunschmid",
+      "email": "contact@martinhaunschmid.com",
+      "url": "https://martinhaunschmid.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAsSAO8ml6yamPfWX/kV2FUFgr/WxBqdlZoe1yTNr56Xo=",
+    "repository": "martinhaunschmid/caido-newrequests"
+  },
+  {
     "id": "yeswecaido",
     "name": "YesWeCaido",
     "license": "MIT",
