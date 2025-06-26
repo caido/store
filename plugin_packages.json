@@ -297,5 +297,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAO26EMwX4yA3RdYKT0FFGN3n5kUynF5SVFxNrLWc6ZsM=",
     "repository": "yeswehack/yeswecaido"
-  }
+  },
+  {
+  "id": "secret-detector",
+  "name": "Secret Detector",
+  "license": "MIT",
+  "description": "Detects hardcoded secrets from proxied HTTP traffic like API keys, sensitive tokens, passwords, etc.",
+  "author": {
+    "name": "DarkLotusKDB",
+    "email": "darklotuskdb@gmail.com",
+    "url": "https://www.linkedin.com/in/kamaldeepbhati/"
+  },
+  "public_key": "MCowBQYDK2VwAyEA3Ohi0UnphEposdI0RFcDaHVY4+MHuGOwqjbtco2+xyk=",
+  "repository": "darklotuskdb/secret-detector"
+}
 ]
