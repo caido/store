@@ -310,5 +310,18 @@
   },
   "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
   "repository": "amrelsagaei/Chatio"
-}
+},
+  {
+    "id": "omnioast",
+    "name": "OmniOAST",
+    "license": "MIT",
+    "description": "Unify your OAST provider management and consolidate all interactions into a single, streamlined workflow.",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
+    "repository": "hahwul/OmniOAST"
+  }
 ]
