@@ -299,6 +299,19 @@
     "repository": "yeswehack/yeswecaido"
   },
   {
+    "id": "omnioast",
+    "name": "OmniOAST",
+    "license": "MIT",
+    "description": "Unify your OAST provider management and consolidate all interactions into a single, streamlined workflow.",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
+    "repository": "hahwul/OmniOAST"
+  },
+  {
     "id": "chatio",
     "name": "Chatio",
     "license": "MIT",
