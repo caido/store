@@ -145,15 +145,15 @@
   {
     "id": "shift",
     "name": "Shift",
-    "license": "ELv2+Mod",
+    "license": "AGPL-3.0",
     "description": "Seamless AI Integration into Caido.",
     "author": {
-      "name": "JThacker & CRITSoftware",
-      "email": "justin@criticalthinkingpodcast.io",
-      "url": "https://shiftwaitlist.com"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAk0JE8EP+IL5xMR/AR87U0n/5ttEJTQInsWDsiQYhnGs=",
-    "repository": "CRITSoftware/shift"
+    "repository": "caido-community/shift"
   },
   {
     "id": "paramfinder-plugin",
@@ -245,7 +245,7 @@
     },
     "public_key": "MCowBQYDK2VwAyEAXru6JmKshtb2uZYF2VgLSoDFtARq6T05orqbv8JqYXk=",
     "repository": "amrelsagaei/JWT-Analyzer"
-  }, 
+  },
   {
     "id": "squash",
     "name": "Squash",
@@ -299,19 +299,6 @@
     "repository": "yeswehack/yeswecaido"
   },
   {
-  "id": "chatio",
-  "name": "Chatio",
-  "license": "MIT",
-  "description": "An AI-powered assistant for hackers and security professionals built for Caido",
-  "author": {
-    "name": "Amr Elsagaei",
-    "email": "info@amrelsagaei.com",
-    "url": "https://amrelsagaei.com"
-  },
-  "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
-  "repository": "amrelsagaei/Chatio"
-},
-  {
     "id": "omnioast",
     "name": "OmniOAST",
     "license": "MIT",
@@ -323,5 +310,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
     "repository": "hahwul/OmniOAST"
+  },
+  {
+    "id": "chatio",
+    "name": "Chatio",
+    "license": "MIT",
+    "description": "An AI-powered assistant for hackers and security professionals built for Caido",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
+    "repository": "amrelsagaei/Chatio"
   }
 ]
