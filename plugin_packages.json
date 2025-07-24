@@ -336,5 +336,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
     "repository": "amrelsagaei/Chatio"
-  }
+  },
+  {
+  "id": "tab-renammer",
+  "name": "Tab Renamer",
+  "license": "MIT",
+  "description": "Plugin used to rename automaticly tab in replay section",
+  "author": {
+    "name": "Serizao",
+    "email": "dev@caido.io",
+    "url": "https://github.com/serizao/tab-renamme"
+  },
+  "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
+  "repository": "serizao/tab-renamme"
+}
 ]
