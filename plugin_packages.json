@@ -323,6 +323,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
     "repository": "hahwul/OmniOAST"
+  },{
+    "id": "compare",
+    "name": "Compare",
+    "license": "MIT",
+    "description": "Side-by-side comparison of HTTP requests, responses, and files with visual difference highlighting",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
+    "repository": "amrelsagaei/Compare"
   },
   {
     "id": "chatio",
