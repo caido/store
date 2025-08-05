@@ -353,7 +353,7 @@
     "id": "scanner",
     "name": "Scanner",
     "license": "AGPL-3.0",
-    "description": "Passive and active vulnerability scanner"",
+    "description": "Passive and active vulnerability scanner",
     "author": {
       "name": "Caido Labs Inc.",
       "email": "dev@caido.io",
