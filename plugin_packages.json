@@ -348,5 +348,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
     "repository": "amrelsagaei/Chatio"
+  },
+    {
+    "id": "openapi",
+    "name": "OpenApi",
+    "license": "MIT",
+    "description": "Accelerate endpoint testing by providing schemas",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS/caido-openapi"
+    },
+    "public_key": "MCowBQYDK2VwAyEABIt/MASMUa6Wctni2BHIIRso/4j4um0olgsTunQZN6A=",
+    "repository": "MDGDSS/caido-openapi"
   }
 ]
