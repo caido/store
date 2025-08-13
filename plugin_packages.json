@@ -361,5 +361,17 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzu4fQBltUyHwwjIc4X6fM1RnqWBjduegUQRD4oIUX6c=",
     "repository": "caido-community/scanner"
+  },
+  {
+    "id": "ebka-ai-assistant",
+    "name": "Ebka AI Assistant",
+    "license": "GPL-3.0",
+    "description": "Integrates with Claude AI to provide AI-powered security testing capabilities",
+    "author": {
+      "name": "Slonser",
+      "email": "slonser@neplox.security",
+    },
+    "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
+    "repository": "Slonser/Ebka-Caido-AI"
   }
 ]
