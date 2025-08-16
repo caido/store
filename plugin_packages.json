@@ -375,6 +375,19 @@
     "repository": "caido-community/scanner"
   },
   {
+    "id": "bytecap",
+    "name": "ByteCap",
+    "license": "MIT",
+    "description": "Cap and split workspace files by size, ideal for proxy files/log uploads with file size limits",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads@offsecmoose.xyz",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAIH6nesHsT+U6myM6Z66JxXes2CI5/uNEWfX3R9LscLg=",
+    "repository": "GangGreenTemperTatum/ByteCap"
+  },
+  {
     "id": "ebka-ai-assistant",
     "name": "Ebka AI Assistant",
     "license": "GPL-3.0",
