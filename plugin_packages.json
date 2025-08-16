@@ -335,6 +335,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
     "repository": "amrelsagaei/Compare"
+  },{
+    "id": "redocs",
+    "name": "ReDocs",
+    "license": "MIT",
+    "description": "Import Postman Collections & OpenAPI Specifications as Replay Sessions",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAV6dMAQFOHcjf8HMGBSX6ZybqldvZ+sb/f6YMF0J7NNg=",
+    "repository": "amrelsagaei/ReDocs"
   },
   {
     "id": "chatio",
