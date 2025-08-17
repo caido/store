@@ -399,5 +399,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
+  },
+  {
+    "id": "racer",
+    "name": "Racer",
+    "license": "MIT",
+    "description": "Exploit Race Conditions in Caido with the Single Packet Attack",
+    "author": {
+      "name": "jakubjn",
+      "email": "jakdevreal@gmail.com",
+      "url": "https://github.com/jakubjn"
+    },
+    "public_key": "MCowBQYDK2VwAyEAS/NX1zOQGgdqNuZO+KqCiZqvCEuBWrL24HLFGp7R0gg=",
+    "repository": "jakubjn/Racer"
   }
 ]
