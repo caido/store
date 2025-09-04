@@ -386,6 +386,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAIH6nesHsT+U6myM6Z66JxXes2CI5/uNEWfX3R9LscLg=",
     "repository": "GangGreenTemperTatum/ByteCap"
+  },{
+    "id": "graphql-analyzer",
+    "name": "GraphQL Analyzer",
+    "license": "MIT",
+    "description": "Plugin for GraphQL schema discovery, visualization, and advanced security",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAO29lZ32flhJc/IMUkDzK2GypJynAOLxmeKzlfHbDnjA=",
+    "repository": "amrelsagaei/GraphQL-Analyzer"
   },
   {
     "id": "ebka-ai-assistant",
