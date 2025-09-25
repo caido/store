@@ -411,5 +411,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
+  },
+  {
+    "id": "authify",
+    "name": "Authify",
+    "license": "GPL-3.0",
+    "description": "Plugin for seamless Authorization testing of user roles",
+    "author": {
+      "name": "Saltify",
+      "email": "saltify7@gmail.com",
+      "url":"https://github.com/saltify7"
+    },
+    "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
+    "repository": "saltify7/Authify"
   }
 ]
