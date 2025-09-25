@@ -415,7 +415,7 @@
   {
     "id": "authify",
     "name": "Authify",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "description": "Plugin for seamless Authorization testing of user roles",
     "author": {
       "name": "Saltify",
