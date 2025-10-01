@@ -411,5 +411,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
+   },
+  {
+    "id": "easyhunting-quickscan",
+    "name": "EasyHunting QuickScan",
+    "license": "MIT",
+    "description": "Security scanning plugin for EasyHunting platform integration with Caido",
+    "author": {
+      "name": "EasyHunting Team",
+      "email": "joker7@easyhunting.app",
+      "url": "https://easyhunting.app"
+    },
+    "public_key": "MCowBQYDK2VwAyEAw8/+yVgN0V3X1Q8I3Mms8ZqV9wDpYBb0R76p+M3kR0I=",
+    "repository": "JoKeR7-Mo2a/EasyHunting-QuickScan-Plugin"
   }
 ]
