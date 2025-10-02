@@ -411,5 +411,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
+  },
+  {
+    "id": "csp-auditor",
+    "name": "CSP Auditor",
+    "license": "MIT",
+    "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads@offsecmoose.xyz",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
+    "repository": "GangGreenTemperTatum/csp-auditor"
   }
 ]
