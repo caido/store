@@ -323,6 +323,30 @@
     },
     "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
     "repository": "hahwul/OmniOAST"
+  },{
+    "id": "compare",
+    "name": "Compare",
+    "license": "MIT",
+    "description": "Side-by-side comparison of HTTP requests, responses, and files with visual difference highlighting",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
+    "repository": "amrelsagaei/Compare"
+  },{
+    "id": "redocs",
+    "name": "ReDocs",
+    "license": "MIT",
+    "description": "Import Postman Collections & OpenAPI Specifications as Replay Sessions",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAV6dMAQFOHcjf8HMGBSX6ZybqldvZ+sb/f6YMF0J7NNg=",
+    "repository": "amrelsagaei/ReDocs"
   },
   {
     "id": "chatio",
@@ -338,16 +362,80 @@
     "repository": "amrelsagaei/Chatio"
   },
   {
-  "id": "tab-renammer",
-  "name": "Tab Renamer",
-  "license": "MIT",
-  "description": "Plugin used to rename automaticly tab in replay section",
-  "author": {
-    "name": "Serizao",
-    "email": "dev@caido.io",
-    "url": "https://github.com/serizao/tab-renamme"
+    "id": "scanner",
+    "name": "Scanner",
+    "license": "AGPL-3.0",
+    "description": "Passive and active vulnerability scanner",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAzu4fQBltUyHwwjIc4X6fM1RnqWBjduegUQRD4oIUX6c=",
+    "repository": "caido-community/scanner"
   },
-  "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
-  "repository": "serizao/tab-renamme"
-}
+  {
+    "id": "bytecap",
+    "name": "ByteCap",
+    "license": "MIT",
+    "description": "Cap and split workspace files by size, ideal for proxy files/log uploads with file size limits",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads@offsecmoose.xyz",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAIH6nesHsT+U6myM6Z66JxXes2CI5/uNEWfX3R9LscLg=",
+    "repository": "GangGreenTemperTatum/ByteCap"
+  },{
+    "id": "graphql-analyzer",
+    "name": "GraphQL Analyzer",
+    "license": "MIT",
+    "description": "Plugin for GraphQL schema discovery, visualization, and advanced security",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "info@amrelsagaei.com",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAO29lZ32flhJc/IMUkDzK2GypJynAOLxmeKzlfHbDnjA=",
+    "repository": "amrelsagaei/GraphQL-Analyzer"
+  },
+  {
+    "id": "ebka-ai-assistant",
+    "name": "Ebka AI Assistant",
+    "license": "GPL-3.0",
+    "description": "Integrates with Claude AI to provide AI-powered security testing capabilities",
+    "author": {
+      "name": "Slonser",
+      "email": "slonser@neplox.security",
+      "url":"https://x.com/slonser_"
+    },
+    "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
+    "repository": "Slonser/Ebka-Caido-AI"
+  },
+  {
+    "id": "csp-auditor",
+    "name": "CSP Auditor",
+    "license": "MIT",
+    "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads@offsecmoose.xyz",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
+    "repository": "GangGreenTemperTatum/csp-auditor"
+  },
+  {
+    "id": "tab-renammer",
+    "name": "Tab Renamer",
+    "license": "MIT",
+    "description": "Plugin used to rename automaticly tab in replay section",
+    "author": {
+      "name": "Serizao",
+      "email": "dev@caido.io",
+      "url": "https://github.com/serizao/tab-renamme"
+    },
+    "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
+    "repository": "serizao/tab-renamme"
+  }
 ]
