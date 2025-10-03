@@ -424,5 +424,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
     "repository": "GangGreenTemperTatum/csp-auditor"
+  },
+  {
+    "id": "tab-renammer",
+    "name": "Tab Renamer",
+    "license": "MIT",
+    "description": "Plugin used to rename automaticly tab in replay section",
+    "author": {
+      "name": "Serizao",
+      "email": "william.leberre@gmail.com",
+      "url": "https://github.com/serizao"
+    },
+    "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
+    "repository": "serizao/tab-renammer"
   }
 ]
