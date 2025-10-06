@@ -2,7 +2,7 @@
   {
     "id": "authmatrix",
     "name": "AuthMatrix",
-    "license": "CC0-1.0",
+    "license": "MIT",
     "description": "Grid-based authorization testing across multiple users and roles.",
     "author": {
       "name": "Caido Labs Inc.",
@@ -145,7 +145,7 @@
   {
     "id": "shift",
     "name": "Shift",
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "description": "Seamless AI Integration into Caido.",
     "author": {
       "name": "Caido Labs Inc.",
@@ -323,7 +323,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
     "repository": "hahwul/OmniOAST"
-  },{
+  },
+  {
     "id": "compare",
     "name": "Compare",
     "license": "MIT",
@@ -335,7 +336,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
     "repository": "amrelsagaei/Compare"
-  },{
+  },
+  {
     "id": "redocs",
     "name": "ReDocs",
     "license": "MIT",
@@ -364,7 +366,7 @@
   {
     "id": "scanner",
     "name": "Scanner",
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "description": "Passive and active vulnerability scanner",
     "author": {
       "name": "Caido Labs Inc.",
@@ -386,7 +388,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAIH6nesHsT+U6myM6Z66JxXes2CI5/uNEWfX3R9LscLg=",
     "repository": "GangGreenTemperTatum/ByteCap"
-  },{
+  },
+  {
     "id": "graphql-analyzer",
     "name": "GraphQL Analyzer",
     "license": "MIT",
@@ -407,7 +410,7 @@
     "author": {
       "name": "Slonser",
       "email": "slonser@neplox.security",
-      "url":"https://x.com/slonser_"
+      "url": "https://x.com/slonser_"
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
