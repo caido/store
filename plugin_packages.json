@@ -442,7 +442,7 @@
     "repository": "serizao/tab-renammer"
   },
   {
-    "id": "openapi",
+    "id": "openapi-tester",
     "name": "OpenApi",
     "license": "MIT",
     "description": "Accelerate endpoint testing by providing schemas",
