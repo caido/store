@@ -443,7 +443,7 @@
   },
   {
     "id": "openapi-tester",
-    "name": "OpenApi",
+    "name": "OpenAPI",
     "license": "MIT",
     "description": "Accelerate endpoint testing by providing schemas",
     "author": {
