@@ -2,7 +2,7 @@
   {
     "id": "authmatrix",
     "name": "AuthMatrix",
-    "license": "CC0-1.0",
+    "license": "MIT",
     "description": "Grid-based authorization testing across multiple users and roles.",
     "author": {
       "name": "Caido Labs Inc.",
@@ -145,7 +145,7 @@
   {
     "id": "shift",
     "name": "Shift",
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "description": "Seamless AI Integration into Caido.",
     "author": {
       "name": "Caido Labs Inc.",
@@ -323,7 +323,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAkHYMKg044NBxc+YtiZQXSbv8p4J05DvqtASdZnb4fZw=",
     "repository": "hahwul/OmniOAST"
-  },{
+  },
+  {
     "id": "compare",
     "name": "Compare",
     "license": "MIT",
@@ -335,7 +336,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
     "repository": "amrelsagaei/Compare"
-  },{
+  },
+  {
     "id": "redocs",
     "name": "ReDocs",
     "license": "MIT",
@@ -364,7 +366,7 @@
   {
     "id": "scanner",
     "name": "Scanner",
-    "license": "AGPL-3.0",
+    "license": "MIT",
     "description": "Passive and active vulnerability scanner",
     "author": {
       "name": "Caido Labs Inc.",
@@ -386,7 +388,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEAIH6nesHsT+U6myM6Z66JxXes2CI5/uNEWfX3R9LscLg=",
     "repository": "GangGreenTemperTatum/ByteCap"
-  },{
+  },
+  {
     "id": "graphql-analyzer",
     "name": "GraphQL Analyzer",
     "license": "MIT",
@@ -407,10 +410,49 @@
     "author": {
       "name": "Slonser",
       "email": "slonser@neplox.security",
-      "url":"https://x.com/slonser_"
+      "url": "https://x.com/slonser_"
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
+  },
+  {
+    "id": "csp-auditor",
+    "name": "CSP Auditor",
+    "license": "MIT",
+    "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
+    "author": {
+      "name": "ads dawson",
+      "email": "ads@offsecmoose.xyz",
+      "url": "https://github.com/GangGreenTemperTatum"
+    },
+    "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
+    "repository": "GangGreenTemperTatum/csp-auditor"
+  },
+  {
+    "id": "tab-renammer",
+    "name": "Tab Renamer",
+    "license": "MIT",
+    "description": "Plugin used to rename automaticly tab in replay section",
+    "author": {
+      "name": "Serizao",
+      "email": "william.leberre@gmail.com",
+      "url": "https://github.com/serizao"
+    },
+    "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
+    "repository": "serizao/tab-renammer"
+  },
+  {
+    "id": "openapi-tester",
+    "name": "OpenAPI",
+    "license": "MIT",
+    "description": "Accelerate endpoint testing by providing schemas",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS"
+    },
+    "public_key": "MCowBQYDK2VwAyEABIt/MASMUa6Wctni2BHIIRso/4j4um0olgsTunQZN6A=",
+    "repository": "MDGDSS/caido-openapi"
   },
   {
     "id": "authify",
