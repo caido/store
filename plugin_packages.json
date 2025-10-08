@@ -453,5 +453,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEABIt/MASMUa6Wctni2BHIIRso/4j4um0olgsTunQZN6A=",
     "repository": "MDGDSS/caido-openapi"
+  },
+  {
+    "id": "authify",
+    "name": "Authify",
+    "license": "MIT",
+    "description": "Plugin for seamless Authorization testing of user roles",
+    "author": {
+      "name": "Saltify",
+      "email": "saltify7@gmail.com",
+      "url":"https://github.com/saltify7"
+    },
+    "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
+    "repository": "saltify7/Authify"
   }
 ]
