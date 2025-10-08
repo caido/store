@@ -15,8 +15,9 @@ Link to my plugin package:
 - [ ] My GitHub release contains all required files
   - [ ] `plugin_package.zip`
   - [ ] `plugin_package.zip.sig`
-- [ ] GitHub Tag name matches the exact version number specified in my `manifest.json`
-- [ ] The `id` in my `manifest.json` matches the `id` in the `plugin_packages.json` file.
+- [ ] Release immutability is enabled
+- [ ] GitHub Tag name matches the version number specified in my `caido.config.json`
+- [ ] The `id` in my `caido.config.json` matches the `id` in the `plugin_packages.json` file.
 - [ ] My `README.md` describes the plugin package purpose and provides clear usage instructions.
 - [ ] I have read the developer policy at <https://developer.caido.io/policy.html>, and have assessed my plugin package adherence to this policy.
 - [ ] I have added a license in the `LICENSE` file and it matches the `license` field in the `plugin_packages.json` file.
