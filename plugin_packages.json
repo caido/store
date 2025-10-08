@@ -440,5 +440,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
     "repository": "serizao/tab-renammer"
+  },
+  {
+    "id": "openapi-tester",
+    "name": "OpenAPI",
+    "license": "MIT",
+    "description": "Accelerate endpoint testing by providing schemas",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS"
+    },
+    "public_key": "MCowBQYDK2VwAyEABIt/MASMUa6Wctni2BHIIRso/4j4um0olgsTunQZN6A=",
+    "repository": "MDGDSS/caido-openapi"
   }
 ]
