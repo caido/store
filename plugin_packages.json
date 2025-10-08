@@ -414,30 +414,19 @@
     },
     "public_key": "MCowBQYDK2VwAyEAzartrinFwQw7xHVfCnKhTllnsB08FbUEDH/K3G0ZE/k=",
     "repository": "Slonser/Ebka-Caido-AI"
-  },
+   },
   {
-    "id": "csp-auditor",
-    "name": "CSP Auditor",
+    "id": "easyhunting-quickscan",
+    "name": "EasyHunting QuickScan",
     "license": "MIT",
-    "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
+    "description": "Security scanning plugin for EasyHunting platform integration with Caido",
     "author": {
-      "name": "ads dawson",
-      "email": "ads@offsecmoose.xyz",
-      "url": "https://github.com/GangGreenTemperTatum"
+      "name": "EasyHunting Team",
+      "email": "joker7@easyhunting.app",
+      "url": "https://easyhunting.app"
     },
-    "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
-    "repository": "GangGreenTemperTatum/csp-auditor"
-  },
-  {
-    "id": "tab-renammer",
-    "name": "Tab Renamer",
-    "license": "MIT",
-    "description": "Plugin used to rename automaticly tab in replay section",
-    "author": {
-      "name": "Serizao",
-      "email": "william.leberre@gmail.com",
-      "url": "https://github.com/serizao"
-    },
+    "public_key": "MCowBQYDK2VwAyEAw8/+yVgN0V3X1Q8I3Mms8ZqV9wDpYBb0R76p+M3kR0I=",
+    "repository": "JoKeR7-Mo2a/EasyHunting-QuickScan-Plugin"
     "public_key": "MCowBQYDK2VwAyEAamNXDc4y/9fASC2qHAerTCq0sCKZrypIOl0F000d+Es=",
     "repository": "serizao/tab-renammer"
   },
