@@ -466,5 +466,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
     "repository": "saltify7/Authify"
-  }
+  },
+  {
+  "id": "converter",
+  "name": "Converter",
+  "license": "MIT",
+  "description": "Data converter plugin for encoding, decoding, and transforming data",
+  "author": {
+    "name": "xvffdos",
+    "email": "dev@xvffdos.com",
+    "url": "https://github.com/MDGDSS"
+  },
+  "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
+  "repository": "MDGDSS/caido-converter"
+}
 ]
