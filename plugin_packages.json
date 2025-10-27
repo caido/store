@@ -466,5 +466,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
     "repository": "saltify7/Authify"
+  },
+  {
+    "id": "autorize",
+    "name": "Autorize",
+    "license": "MIT",
+    "description": "Automated authorization testing",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAhfcDjQu8XIlrs+80m/2I4GWDNE4q6siePY5yItX/Fmg=",
+    "repository": "caido-community/autorize"
   }
 ]
