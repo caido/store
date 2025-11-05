@@ -479,5 +479,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAhfcDjQu8XIlrs+80m/2I4GWDNE4q6siePY5yItX/Fmg=",
     "repository": "caido-community/autorize"
-  }
+  },
+  {
+  "id": "notify",
+  "name": "Notify",
+  "license": "MIT",
+  "description": "Plugin to send Caido findings to notification platforms using ProjectDiscovery Notify",
+  "author": {
+    "name": "xvffdos",
+    "email": "dev@xvffdos.com",
+    "url": "https://github.com/MDGDSS/caido-notify"
+  },
+  "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
+  "repository": "MDGDSS/caido-notify"
+}
 ]
