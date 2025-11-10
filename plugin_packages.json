@@ -462,7 +462,7 @@
     "author": {
       "name": "Saltify",
       "email": "saltify7@gmail.com",
-      "url":"https://github.com/saltify7"
+      "url": "https://github.com/saltify7"
     },
     "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
     "repository": "saltify7/Authify"
@@ -479,5 +479,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAhfcDjQu8XIlrs+80m/2I4GWDNE4q6siePY5yItX/Fmg=",
     "repository": "caido-community/autorize"
+  },
+  {
+    "id": "hex",
+    "name": "Hex",
+    "license": "MIT",
+    "description": "Adds a hex viewer and editor to the History and Replay tabs",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEA7mnFhYg7vb00izB79EfkogCNlENCcyiheoo7xoI0RHk=",
+    "repository": "hahwul/Hex"
   }
 ]
