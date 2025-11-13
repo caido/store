@@ -479,5 +479,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAhfcDjQu8XIlrs+80m/2I4GWDNE4q6siePY5yItX/Fmg=",
     "repository": "caido-community/autorize"
+  },
+  {
+    "id": "retire-js",
+    "name": "RetireJS Scanner",
+    "license": "MIT",
+    "description": "Retire.js-like live or manual scanner with finding creation.",
+    "author": {
+      "name": "bensh",
+      "email": "dev@caido.io",
+      "url": "https://github.com/bensh/caido-retirejs"
+    },
+    "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
+    "repository": "bensh/caido-retirejs"
   }
 ]
