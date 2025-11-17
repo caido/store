@@ -484,10 +484,10 @@
     "id": "retire-js",
     "name": "RetireJS Scanner",
     "license": "MIT",
-    "description": "Retire.js-like live or manual scanner with finding creation.",
+    "description": "Retire.js-like live or manual scanner for Caido: checks request/response URLs for outdated Javascript.",
     "author": {
       "name": "bensh",
-      "email": "dev@caido.io",
+      "email": "no-reply@caido.community",
       "url": "https://github.com/bensh/caido-retirejs"
     },
     "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
