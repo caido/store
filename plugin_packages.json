@@ -492,5 +492,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA7mnFhYg7vb00izB79EfkogCNlENCcyiheoo7xoI0RHk=",
     "repository": "hahwul/Hex"
+  },
+  {
+    "id": "authswap",
+    "name": "Authswap",
+    "license": "MIT",
+    "description": "Quickly switch between different user authentication contexts during manual testing",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAKb/meWPz5b/CQk6aryY89D2lA1R0J5ZE49uZf4GTjYg=",
+    "repository": "caido-community/authswap"
   }
 ]
