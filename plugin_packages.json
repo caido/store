@@ -505,5 +505,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAKb/meWPz5b/CQk6aryY89D2lA1R0J5ZE49uZf4GTjYg=",
     "repository": "caido-community/authswap"
+  },
+  {
+    "id": "retire-js",
+    "name": "RetireJS Scanner",
+    "license": "MIT",
+    "description": "Retire.js-like live or manual scanner for Caido: checks request/response URLs for outdated Javascript.",
+    "author": {
+      "name": "bensh",
+      "email": "no-reply@caido.community",
+      "url": "https://github.com/bensh"
+    },
+    "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
+    "repository": "bensh/caido-retirejs"
   }
 ]
