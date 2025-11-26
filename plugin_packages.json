@@ -518,5 +518,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
     "repository": "bensh/caido-retirejs"
+  },
+  {
+   "id": "viewstate-analyzer",
+  "name": "ViewState Analyzer",
+  "version": "1.0.0",
+  "description": "Analyze ASP.NET ViewState to detect encryption and MAC signature",
+  "author": {
+    "name": "Serizao",
+    "email": "dev@caido.io",
+    "url": "https://github.com/serizao"
+  },
+    "public_key": "MCowBQYDK2VwAyEAWdNiCLXynsSwPZmJm5pkD7KcX5nIcrjey5CB9SqnlkA=",
+    "repository": "serizao/caidoViewState"
   }
 ]
