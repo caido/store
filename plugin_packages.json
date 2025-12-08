@@ -120,7 +120,7 @@
     "id": "sequencer",
     "name": "Sequencer",
     "license": "MIT",
-    "description": "Token randomness analyzer - like Burp Sequencer",
+    "description": "Token randomness analyzer",
     "author": {
       "name": "w2xim3",
       "email": "dev@caido.io",
