@@ -117,6 +117,19 @@
     "repository": "caido-community/quickssrf"
   },
   {
+    "id": "sequencer",
+    "name": "Sequencer",
+    "license": "MIT",
+    "description": "Token randomness analyzer - like Burp Sequencer",
+    "author": {
+      "name": "w2xim3",
+      "email": "dev@caido.io",
+      "url": "https://github.com/caido-community/sequencer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
+    "repository": "caido-community/sequencer"
+  },
+  {
     "id": "notesplusplus",
     "name": "Notes++",
     "license": "MIT",
