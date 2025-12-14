@@ -531,5 +531,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
     "repository": "bensh/caido-retirejs"
+  },
+  {
+    "id": "screenshot-mode",
+    "name": "Screenshot Mode",
+    "license": "MIT",
+    "description": "Make pretty screenshots of your requests",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAq9vgqLVUtcQ3+m8R7v+Q7i+DmPy3YOW0UKun/tDrqCE=",
+    "repository": "caido-community/screenshot-mode"
   }
 ]
