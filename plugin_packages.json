@@ -117,6 +117,19 @@
     "repository": "caido-community/quickssrf"
   },
   {
+    "id": "sequencer",
+    "name": "Sequencer",
+    "license": "MIT",
+    "description": "Token randomness analyzer",
+    "author": {
+      "name": "w2xim3",
+      "email": "dev@caido.io",
+      "url": "https://github.com/caido-community/sequencer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
+    "repository": "caido-community/sequencer"
+  },
+  {
     "id": "notesplusplus",
     "name": "Notes++",
     "license": "MIT",
@@ -519,10 +532,11 @@
     "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
     "repository": "bensh/caido-retirejs"
   },
-  {
+ {
    "id": "viewstate-analyzer",
   "name": "ViewState Analyzer",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "Analyze ASP.NET ViewState to detect encryption and MAC signature",
   "author": {
     "name": "Serizao",
@@ -531,5 +545,18 @@
   },
     "public_key": "MCowBQYDK2VwAyEAWdNiCLXynsSwPZmJm5pkD7KcX5nIcrjey5CB9SqnlkA=",
     "repository": "serizao/caidoViewState"
+  },
+{
+    "id": "screenshot-mode",
+    "name": "Screenshot Mode",
+    "license": "MIT",
+    "description": "Make pretty screenshots of your requests",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAq9vgqLVUtcQ3+m8R7v+Q7i+DmPy3YOW0UKun/tDrqCE=",
+    "repository": "caido-community/screenshot-mode"
   }
 ]
