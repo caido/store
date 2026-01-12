@@ -1,5 +1,18 @@
 [
   {
+    "id": "nextjs-actions-analyzer",
+    "name": "Next.js Actions Analyzer",
+    "license": "MIT",
+    "description": "Analyze Next.js Server Actions",
+    "author": {
+      "name": "fir3cr4ckers",
+      "email": "fir3cr4ckers@proton.me",
+      "url": "https://github.com/yassinebk"
+    },
+    "public_key": "MCowBQYDK2VwAyEAvtAQo4EcFVuKn+VCG5qrZLZUapSmyU1EWV2HkGkknDU=",
+    "repository": "yassinebk/CaidoNextJSActionsAnalyzer"
+  },
+  {
     "id": "authmatrix",
     "name": "AuthMatrix",
     "license": "MIT",
