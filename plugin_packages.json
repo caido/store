@@ -556,7 +556,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/anomaly-ranker-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAFoVMN1l51aC0uQVhalrIim2RjBWDWPvQuQtkLCENIU8="
+    "publicKey": "MCowBQYDK2VwAyEAFoVMN1l51aC0uQVhalrIim2RjBWDWPvQuQtkLCENIU8=",
+    "license": "ISC"
   },
   {
     "id": "autocomplete",
@@ -569,7 +570,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/autocomplete-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEACh6U/vVmwojmm4VIAno/IUphwfMB8lq6JEDdl6lea/E="
+    "publicKey": "MCowBQYDK2VwAyEACh6U/vVmwojmm4VIAno/IUphwfMB8lq6JEDdl6lea/E=",
+    "license": "ISC"
   },
   {
     "id": "bulker",
@@ -582,7 +584,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/bulker-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAAMvK4eLcFFJAchmhkRPaDhzuGuSbw/sdc3Xv+gGc8rs="
+    "publicKey": "MCowBQYDK2VwAyEAAMvK4eLcFFJAchmhkRPaDhzuGuSbw/sdc3Xv+gGc8rs=",
+    "license": "ISC"
   },
   {
     "id": "burfisher",
@@ -595,7 +598,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/burfisher-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc="
+    "publicKey": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc=",
+    "license": "ISC"
   },
   {
     "id": "crayon",
@@ -608,7 +612,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/crayon-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAWDgMfytcSVUyZm4z4EJnkAKwxWModwDW0iJueXrNCiI="
+    "publicKey": "MCowBQYDK2VwAyEAWDgMfytcSVUyZm4z4EJnkAKwxWModwDW0iJueXrNCiI=",
+    "license": "ISC"
   },
   {
     "id": "jq",
@@ -621,7 +626,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/jq-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4="
+    "publicKey": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
+    "license": "ISC"
   },
   {
     "id": "jsf-decoder",
@@ -634,7 +640,8 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/jsf-decoder-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAhsPvjYXTKwaLo8rPLTXD7F56PT/Bb3FoncHIBDGlVpM="
+    "publicKey": "MCowBQYDK2VwAyEAhsPvjYXTKwaLo8rPLTXD7F56PT/Bb3FoncHIBDGlVpM=",
+    "license": "ISC"
   },
   {
     "id": "saml-raider",
@@ -647,6 +654,7 @@
     },
     "version": "1.0.4",
     "downloadUrl": "https://github.com/aleister1102/saml-raider-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAB/cYXdwkV4+eQg47Y5Lf3biM037O1KSdsky40ZWEB/I="
+    "publicKey": "MCowBQYDK2VwAyEAB/cYXdwkV4+eQg47Y5Lf3biM037O1KSdsky40ZWEB/I=",
+    "license": "ISC"
   }
 ]
