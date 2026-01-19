@@ -544,5 +544,109 @@
     },
     "public_key": "MCowBQYDK2VwAyEAq9vgqLVUtcQ3+m8R7v+Q7i+DmPy3YOW0UKun/tDrqCE=",
     "repository": "caido-community/screenshot-mode"
+  },
+  {
+    "id": "anomaly-ranker",
+    "name": "Anomaly Ranker",
+    "description": "Calculate anomaly ranks using statistical outlier detection and SimHash similarity.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/anomaly-ranker-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/anomaly-ranker-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAFoVMN1l51aC0uQVhalrIim2RjBWDWPvQuQtkLCENIU8="
+  },
+  {
+    "id": "autocomplete",
+    "name": "Autocomplete",
+    "description": "Autocomplete for Caido",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/autocomplete-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/autocomplete-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEACh6U/vVmwojmm4VIAno/IUphwfMB8lq6JEDdl6lea/E="
+  },
+  {
+    "id": "bulker",
+    "name": "Bulker",
+    "description": "Bulk HTTP request sender with concurrent execution",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/bulker-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/bulker-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAAMvK4eLcFFJAchmhkRPaDhzuGuSbw/sdc3Xv+gGc8rs="
+  },
+  {
+    "id": "burfisher",
+    "name": "Burfisher",
+    "description": "Scan HTTP traffic for exposed secrets using MongoDB Kingfisher",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/burfisher-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/burfisher-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc="
+  },
+  {
+    "id": "crayon",
+    "name": "Crayon Colorizer",
+    "description": "Colorizes requests using the same rules as Request Colorizer and exposes context-menu batch actions.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/crayon-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/crayon-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAWDgMfytcSVUyZm4z4EJnkAKwxWModwDW0iJueXrNCiI="
+  },
+  {
+    "id": "jq",
+    "name": "JQ",
+    "description": "JQ view mode for JSON bodies",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/jq-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/jq-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4="
+  },
+  {
+    "id": "jsf-decoder",
+    "name": "JSF Decoder",
+    "description": "Automatically detects and parses JavaServer Faces (JSF) request body parameters, decoding URL-encoded values and presenting them in a structured, human-readable format.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/jsf-decoder-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/jsf-decoder-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAhsPvjYXTKwaLo8rPLTXD7F56PT/Bb3FoncHIBDGlVpM="
+  },
+  {
+    "id": "saml-raider",
+    "name": "SAML Raider",
+    "description": "SAML2 manipulation and certificate management plugin for Caido.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/saml-raider-caido"
+    },
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/aleister1102/saml-raider-caido/releases/download/v1.0.4/plugin_package.zip",
+    "publicKey": "MCowBQYDK2VwAyEAB/cYXdwkV4+eQg47Y5Lf3biM037O1KSdsky40ZWEB/I="
   }
 ]
