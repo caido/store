@@ -546,6 +546,19 @@
     "repository": "caido-community/screenshot-mode"
   },
   {
+    "id": "slcyber-tools",
+    "name": "SLCyber Tools",
+    "license": "MIT",
+    "description": "A collection of tools from SLCyber including Surf for SSRF testing and SLCyber custom wordlists",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAagUsHYFJLPR/NslALJTWBSnT7TTv/i8pJ0iINvoKPZo=",
+    "repository": "caido-community/slcyber-tools"
+  },
+  {
     "id": "caido-postman",
     "name": "Caido Postman Integration",
     "license": "MIT",
