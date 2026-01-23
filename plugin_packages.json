@@ -583,5 +583,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAY3dRLF+7DMWxMX4HDN+/ZDEcAqtBFZqQ5noOtZ2y41A=",
     "repository": "caido-community/ntlm"
+  },
+  {
+    "id": "tor",
+    "name": "Tor",
+    "license": "MIT",
+    "description": "Allow connecting to the Tor network",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
+    "repository": "caido-community/tor"
   }
 ]
