@@ -557,5 +557,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAagUsHYFJLPR/NslALJTWBSnT7TTv/i8pJ0iINvoKPZo=",
     "repository": "caido-community/slcyber-tools"
+  },
+  {
+    "id": "caido-postman",
+    "name": "Caido Postman Integration",
+    "license": "MIT",
+    "description": "Search Postman public collections, import API requests with headers/body/auth, replay through Caido proxy, and filter HTTP history",
+    "author": {
+      "name": "OFJAAAH",
+      "email": "contact@ofjaaah.com",
+      "url": "https://github.com/KingOfBugbounty"
+    },
+    "public_key": "MCowBQYDK2VwAyEAWCaKbf+sIEo5jllWNwXjHz+E8r45ZhdtVjestX6EhhQ=",
+    "repository": "KingOfBugbounty/caido-postman"
   }
 ]
