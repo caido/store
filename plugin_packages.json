@@ -570,5 +570,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAWCaKbf+sIEo5jllWNwXjHz+E8r45ZhdtVjestX6EhhQ=",
     "repository": "KingOfBugbounty/caido-postman"
+  },
+  {
+    "id": "ntlm",
+    "name": "NTLM Authentication",
+    "license": "MIT",
+    "description": "Plugin for NTLM authentication",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAY3dRLF+7DMWxMX4HDN+/ZDEcAqtBFZqQ5noOtZ2y41A=",
+    "repository": "caido-community/ntlm"
   }
 ]
