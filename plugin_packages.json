@@ -253,11 +253,11 @@
     "description": "Detect, analyze, test and Attack JSON Web Tokens in web traffic",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAXru6JmKshtb2uZYF2VgLSoDFtARq6T05orqbv8JqYXk=",
-    "repository": "amrelsagaei/JWT-Analyzer"
+    "repository": "caido-community/JWT-Analyzer"
   },
   {
     "id": "squash",
@@ -344,11 +344,11 @@
     "description": "Side-by-side comparison of HTTP requests, responses, and files with visual difference highlighting",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
-    "repository": "amrelsagaei/Compare"
+    "repository": "caido-community/Compare"
   },
   {
     "id": "redocs",
@@ -357,11 +357,11 @@
     "description": "Import Postman Collections & OpenAPI Specifications as Replay Sessions",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAV6dMAQFOHcjf8HMGBSX6ZybqldvZ+sb/f6YMF0J7NNg=",
-    "repository": "amrelsagaei/ReDocs"
+    "repository": "caido-community/ReDocs"
   },
   {
     "id": "chatio",
@@ -370,11 +370,11 @@
     "description": "An AI-powered assistant for hackers and security professionals built for Caido",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
-    "repository": "amrelsagaei/Chatio"
+    "repository": "caido-community/Chatio"
   },
   {
     "id": "scanner",
@@ -409,11 +409,11 @@
     "description": "Plugin for GraphQL schema discovery, visualization, and advanced security",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAO29lZ32flhJc/IMUkDzK2GypJynAOLxmeKzlfHbDnjA=",
-    "repository": "amrelsagaei/GraphQL-Analyzer"
+    "repository": "caido-community/GraphQL-Analyzer"
   },
   {
     "id": "ebka-ai-assistant",
@@ -596,5 +596,31 @@
     },
     "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
     "repository": "caido-community/tor"
+  },
+  {
+    "id": "crawler",
+    "name": "Crawler",
+    "license": "MIT",
+    "description": "Automatic website crawler for sitemap discovery",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAYqLQslCednjI1RKwpfFhSa6ImOBN7Qdh6wigo+CiI+A=",
+    "repository": "caido-community/crawler"
+  },
+  {
+    "id": "panes",
+    "name": "Panes",
+    "license": "MIT",
+    "description": "Custom view modes for HTTP requests and responses",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAvFJdudhzxVm5MsdDD9oejFuUUzBjtQ0GDcVKZZtEnX4=",
+    "repository": "caido-community/panes"
   }
 ]
