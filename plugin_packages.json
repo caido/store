@@ -557,5 +557,44 @@
     },
     "public_key": "MCowBQYDK2VwAyEAagUsHYFJLPR/NslALJTWBSnT7TTv/i8pJ0iINvoKPZo=",
     "repository": "caido-community/slcyber-tools"
+  },
+  {
+    "id": "caido-postman",
+    "name": "Caido Postman Integration",
+    "license": "MIT",
+    "description": "Search Postman public collections, import API requests with headers/body/auth, replay through Caido proxy, and filter HTTP history",
+    "author": {
+      "name": "OFJAAAH",
+      "email": "contact@ofjaaah.com",
+      "url": "https://github.com/KingOfBugbounty"
+    },
+    "public_key": "MCowBQYDK2VwAyEAWCaKbf+sIEo5jllWNwXjHz+E8r45ZhdtVjestX6EhhQ=",
+    "repository": "KingOfBugbounty/caido-postman"
+  },
+  {
+    "id": "ntlm",
+    "name": "NTLM Authentication",
+    "license": "MIT",
+    "description": "Plugin for NTLM authentication",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAY3dRLF+7DMWxMX4HDN+/ZDEcAqtBFZqQ5noOtZ2y41A=",
+    "repository": "caido-community/ntlm"
+  },
+  {
+    "id": "tor",
+    "name": "Tor",
+    "license": "MIT",
+    "description": "Allow connecting to the Tor network",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
+    "repository": "caido-community/tor"
   }
 ]
