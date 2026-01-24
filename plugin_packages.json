@@ -596,5 +596,31 @@
     },
     "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
     "repository": "caido-community/tor"
+  },
+  {
+    "id": "crawler",
+    "name": "Crawler",
+    "license": "MIT",
+    "description": "Automatic website crawler for sitemap discovery",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAYqLQslCednjI1RKwpfFhSa6ImOBN7Qdh6wigo+CiI+A=",
+    "repository": "caido-community/crawler"
+  },
+  {
+    "id": "panes",
+    "name": "Panes",
+    "license": "MIT",
+    "description": "Custom view modes for HTTP requests and responses",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAvFJdudhzxVm5MsdDD9oejFuUUzBjtQ0GDcVKZZtEnX4=",
+    "repository": "caido-community/panes"
   }
 ]
