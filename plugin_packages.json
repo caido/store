@@ -622,5 +622,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAvFJdudhzxVm5MsdDD9oejFuUUzBjtQ0GDcVKZZtEnX4=",
     "repository": "caido-community/panes"
+  },
+  {
+    "id": "nomad-ip",
+    "name": "Nomad-ip",
+    "license": "MIT",
+    "description": "Rotate source IP using AWS API Gateway to bypass IP-based blocking",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAXCjwhmPMttl1JPvIbB4z7e55jEpNgZb7gs9cEduEPdY=",
+    "repository": "caido-community/nomad-ip"
   }
 ]
