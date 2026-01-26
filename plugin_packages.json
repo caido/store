@@ -588,23 +588,23 @@
     "license": "ISC"
   },
   {
-    "id": "burfisher",
-    "name": "Burfisher",
+    "id": "caidofisher",
+    "name": "Caidofisher",
     "description": "Scan HTTP traffic for exposed secrets using MongoDB Kingfisher",
     "author": {
       "name": "insomnia1102",
       "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/burfisher-caido"
+      "url": "https://github.com/aleister1102/caidofisher-caido"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/burfisher-caido/releases/download/v1.0.4/plugin_package.zip",
+    "version": "1.0.6",
+    "downloadUrl": "https://github.com/aleister1102/caidofisher-caido/releases/download/1.0.6/plugin_package.zip",
     "publicKey": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc=",
     "license": "ISC"
   },
   {
     "id": "crayon",
     "name": "Crayon Colorizer",
-    "description": "Colorizes requests using the same rules as Request Colorizer and exposes context-menu batch actions.",
+    "description": "Automated and manual HTTP traffic coloring with batch context-menu actions and a settings UI.",
     "author": {
       "name": "insomnia1102",
       "email": "marucube35@gmail.com",
