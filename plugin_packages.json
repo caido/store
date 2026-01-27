@@ -253,11 +253,11 @@
     "description": "Detect, analyze, test and Attack JSON Web Tokens in web traffic",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAXru6JmKshtb2uZYF2VgLSoDFtARq6T05orqbv8JqYXk=",
-    "repository": "amrelsagaei/JWT-Analyzer"
+    "repository": "caido-community/JWT-Analyzer"
   },
   {
     "id": "squash",
@@ -344,11 +344,11 @@
     "description": "Side-by-side comparison of HTTP requests, responses, and files with visual difference highlighting",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
-    "repository": "amrelsagaei/Compare"
+    "repository": "caido-community/Compare"
   },
   {
     "id": "redocs",
@@ -357,11 +357,11 @@
     "description": "Import Postman Collections & OpenAPI Specifications as Replay Sessions",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAV6dMAQFOHcjf8HMGBSX6ZybqldvZ+sb/f6YMF0J7NNg=",
-    "repository": "amrelsagaei/ReDocs"
+    "repository": "caido-community/ReDocs"
   },
   {
     "id": "chatio",
@@ -370,11 +370,11 @@
     "description": "An AI-powered assistant for hackers and security professionals built for Caido",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
-    "repository": "amrelsagaei/Chatio"
+    "repository": "caido-community/Chatio"
   },
   {
     "id": "scanner",
@@ -409,11 +409,11 @@
     "description": "Plugin for GraphQL schema discovery, visualization, and advanced security",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAO29lZ32flhJc/IMUkDzK2GypJynAOLxmeKzlfHbDnjA=",
-    "repository": "amrelsagaei/GraphQL-Analyzer"
+    "repository": "caido-community/GraphQL-Analyzer"
   },
   {
     "id": "ebka-ai-assistant",
@@ -546,115 +546,94 @@
     "repository": "caido-community/screenshot-mode"
   },
   {
-    "id": "anomaly-ranker",
-    "name": "Anomaly Ranker",
-    "description": "Calculate anomaly ranks using statistical outlier detection and SimHash similarity.",
+    "id": "slcyber-tools",
+    "name": "SLCyber Tools",
+    "license": "MIT",
+    "description": "A collection of tools from SLCyber including Surf for SSRF testing and SLCyber custom wordlists",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/anomaly-ranker-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/anomaly-ranker-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAFoVMN1l51aC0uQVhalrIim2RjBWDWPvQuQtkLCENIU8=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAagUsHYFJLPR/NslALJTWBSnT7TTv/i8pJ0iINvoKPZo=",
+    "repository": "caido-community/slcyber-tools"
   },
   {
-    "id": "autocomplete",
-    "name": "Autocomplete",
-    "description": "Autocomplete for Caido",
+    "id": "caido-postman",
+    "name": "Caido Postman Integration",
+    "license": "MIT",
+    "description": "Search Postman public collections, import API requests with headers/body/auth, replay through Caido proxy, and filter HTTP history",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/autocomplete-caido"
+      "name": "OFJAAAH",
+      "email": "contact@ofjaaah.com",
+      "url": "https://github.com/KingOfBugbounty"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/autocomplete-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEACh6U/vVmwojmm4VIAno/IUphwfMB8lq6JEDdl6lea/E=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAWCaKbf+sIEo5jllWNwXjHz+E8r45ZhdtVjestX6EhhQ=",
+    "repository": "KingOfBugbounty/caido-postman"
   },
   {
-    "id": "bulker",
-    "name": "Bulker",
-    "description": "Bulk HTTP request sender with concurrent execution",
+    "id": "ntlm",
+    "name": "NTLM Authentication",
+    "license": "MIT",
+    "description": "Plugin for NTLM authentication",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/bulker-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/bulker-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAAMvK4eLcFFJAchmhkRPaDhzuGuSbw/sdc3Xv+gGc8rs=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAY3dRLF+7DMWxMX4HDN+/ZDEcAqtBFZqQ5noOtZ2y41A=",
+    "repository": "caido-community/ntlm"
   },
   {
-    "id": "caidofisher",
-    "name": "Caidofisher",
-    "description": "Scan HTTP traffic for exposed secrets using MongoDB Kingfisher",
+    "id": "tor",
+    "name": "Tor",
+    "license": "MIT",
+    "description": "Allow connecting to the Tor network",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/caidofisher-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.6",
-    "downloadUrl": "https://github.com/aleister1102/caidofisher-caido/releases/download/1.0.6/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
+    "repository": "caido-community/tor"
   },
   {
-    "id": "crayon",
-    "name": "Crayon Colorizer",
-    "description": "Automated and manual HTTP traffic coloring with batch context-menu actions and a settings UI.",
+    "id": "crawler",
+    "name": "Crawler",
+    "license": "MIT",
+    "description": "Automatic website crawler for sitemap discovery",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/crayon-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/crayon-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAWDgMfytcSVUyZm4z4EJnkAKwxWModwDW0iJueXrNCiI=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAYqLQslCednjI1RKwpfFhSa6ImOBN7Qdh6wigo+CiI+A=",
+    "repository": "caido-community/crawler"
   },
   {
-    "id": "jq",
-    "name": "JQ",
-    "description": "JQ view mode for JSON bodies",
+    "id": "panes",
+    "name": "Panes",
+    "license": "MIT",
+    "description": "Custom view modes for HTTP requests and responses",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/jq-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/jq-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAvFJdudhzxVm5MsdDD9oejFuUUzBjtQ0GDcVKZZtEnX4=",
+    "repository": "caido-community/panes"
   },
   {
-    "id": "jsf-decoder",
-    "name": "JSF Decoder",
-    "description": "Automatically detects and parses JavaServer Faces (JSF) request body parameters, decoding URL-encoded values and presenting them in a structured, human-readable format.",
+    "id": "nomad-ip",
+    "name": "Nomad-ip",
+    "license": "MIT",
+    "description": "Rotate source IP using AWS API Gateway to bypass IP-based blocking",
     "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/jsf-decoder-caido"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/jsf-decoder-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAhsPvjYXTKwaLo8rPLTXD7F56PT/Bb3FoncHIBDGlVpM=",
-    "license": "ISC"
-  },
-  {
-    "id": "saml-raider",
-    "name": "SAML Raider",
-    "description": "SAML2 manipulation and certificate management plugin for Caido.",
-    "author": {
-      "name": "insomnia1102",
-      "email": "marucube35@gmail.com",
-      "url": "https://github.com/aleister1102/saml-raider-caido"
-    },
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/aleister1102/saml-raider-caido/releases/download/v1.0.4/plugin_package.zip",
-    "publicKey": "MCowBQYDK2VwAyEAB/cYXdwkV4+eQg47Y5Lf3biM037O1KSdsky40ZWEB/I=",
-    "license": "ISC"
+    "public_key": "MCowBQYDK2VwAyEAXCjwhmPMttl1JPvIbB4z7e55jEpNgZb7gs9cEduEPdY=",
+    "repository": "caido-community/nomad-ip"
   }
 ]
