@@ -635,5 +635,109 @@
     },
     "public_key": "MCowBQYDK2VwAyEAXCjwhmPMttl1JPvIbB4z7e55jEpNgZb7gs9cEduEPdY=",
     "repository": "caido-community/nomad-ip"
+  },
+  {
+    "id": "anomaly-ranker",
+    "name": "Anomaly Ranker",
+    "license": "ISC",
+    "description": "Calculate anomaly ranks using statistical outlier detection and SimHash similarity.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/anomaly-ranker-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAFoVMN1l51aC0uQVhalrIim2RjBWDWPvQuQtkLCENIU8=",
+    "repository": "aleister1102/anomaly-ranker-caido"
+  },
+  {
+    "id": "autocomplete",
+    "name": "Autocomplete",
+    "license": "MIT",
+    "description": "Autocomplete for Caido",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/autocomplete-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEACh6U/vVmwojmm4VIAno/IUphwfMB8lq6JEDdl6lea/E=",
+    "repository": "aleister1102/autocomplete-caido"
+  },
+  {
+    "id": "bulker",
+    "name": "Bulker",
+    "license": "MIT",
+    "description": "Bulk HTTP request sender with concurrent execution",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/bulker-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAAMvK4eLcFFJAchmhkRPaDhzuGuSbw/sdc3Xv+gGc8rs=",
+    "repository": "aleister1102/bulker-caido"
+  },
+  {
+    "id": "crayon",
+    "name": "Crayon Colorizer",
+    "license": "ISC",
+    "description": "Automated and manual HTTP traffic coloring with batch context-menu actions and a settings UI.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/crayon-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAWDgMfytcSVUyZm4z4EJnkAKwxWModwDW0iJueXrNCiI=",
+    "repository": "aleister1102/crayon-caido"
+  },
+  {
+    "id": "jq",
+    "name": "JQ",
+    "license": "MIT",
+    "description": "JQ view mode for JSON bodies",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/jq-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
+    "repository": "aleister1102/jq-caido"
+  },
+  {
+    "id": "jsf-decoder",
+    "name": "JSF Decoder",
+    "license": "MIT",
+    "description": "Automatically detects and parses JavaServer Faces (JSF) request body parameters, decoding URL-encoded values and presenting them in a structured, human-readable format.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/jsf-decoder-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAhsPvjYXTKwaLo8rPLTXD7F56PT/Bb3FoncHIBDGlVpM=",
+    "repository": "aleister1102/jsf-decoder-caido"
+  },
+  {
+    "id": "kingfisher",
+    "name": "Kingfisher",
+    "license": "MIT",
+    "description": "Scan HTTP traffic for exposed secrets using MongoDB Kingfisher",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/kingfisher-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAVUcs5QurCDeJodsGQMp8L+RY0h2rg4naajB8mwDndgc=",
+    "repository": "aleister1102/kingfisher-caido"
+  },
+  {
+    "id": "saml-raider",
+    "name": "SAML Raider",
+    "license": "MIT",
+    "description": "SAML2 manipulation and certificate management plugin for Caido.",
+    "author": {
+      "name": "insomnia1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/saml-raider-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAB/cYXdwkV4+eQg47Y5Lf3biM037O1KSdsky40ZWEB/I=",
+    "repository": "aleister1102/saml-raider-caido"
   }
 ]
