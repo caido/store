@@ -635,5 +635,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAXCjwhmPMttl1JPvIbB4z7e55jEpNgZb7gs9cEduEPdY=",
     "repository": "caido-community/nomad-ip"
+  },
+  {
+    "id": "hackerutils",
+    "name": "HackerUtils",
+    "license": "MIT",
+    "description": "A set of utilities for hackers to help with their manual testing.",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAnJVXRa2wVG0AVimgkAMX9MYrJ6of7wkssnPMhLT8xOM=",
+    "repository": "caido-community/hackerutils"
   }
 ]
