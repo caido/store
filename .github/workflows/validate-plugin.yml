@@ -102,7 +102,14 @@ jobs:
           # Get latest release info using gh CLI with proper escaping
           RELEASE_JSON=$(gh api "repos/${{ steps.unsafe-plugin-info.outputs.plugin_owner }}/${{ steps.unsafe-plugin-info.outputs.plugin_repo }}/releases/latest")
           TAG_NAME=$(echo "$RELEASE_JSON" | jq -r '.tag_name')
-          
+
+          # Check that release is immutable
+          IS_IMMUTABLE=$(echo "$RELEASE_JSON" | jq -r '.immutable')
+          if [ "$IS_IMMUTABLE" != "true" ]; then
+            echo "Error: Latest release is not immutable. Only immutable releases are allowed."
+            exit 1
+          fi
+
           # Find required assets
           PLUGIN_PACKAGE_URL=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name == "plugin_package.zip") | .browser_download_url')
           SIGNATURE_URL=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name == "plugin_package.zip.sig") | .browser_download_url')
