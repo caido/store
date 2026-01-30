@@ -19,11 +19,11 @@
     "description": "Bypass a 403 page with a set of templates",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA7hd15kPWlDAzJmMXXFRbVDD83T+0AWVk6OlgLwAgwFQ=",
-    "repository": "bebiksior/Caido403Bypasser"
+    "repository": "caido-community/Caido403Bypasser"
   },
   {
     "id": "evenbetter",
@@ -32,11 +32,11 @@
     "description": "Collection of tweaks and improvements for Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
-    "repository": "bebiksior/EvenBetter"
+    "repository": "caido-community/EvenBetter"
   },
   {
     "id": "caido-themes",
@@ -45,11 +45,11 @@
     "description": "A plugin for managing and customizing themes in Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
-    "repository": "bebiksior/CaidoThemes"
+    "repository": "caido-community/CaidoThemes"
   },
   {
     "id": "cursor-pen",
@@ -175,11 +175,11 @@
     "description": "Discover hidden parameters in Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEAsyIyiFphSDMT0eu4fGKRVILeKU3gI5reVMrftBhYkXU=",
-    "repository": "bebiksior/ParamFinder"
+    "repository": "caido-community/ParamFinder"
   },
   {
     "id": "devtools",
