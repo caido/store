@@ -648,5 +648,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAnJVXRa2wVG0AVimgkAMX9MYrJ6of7wkssnPMhLT8xOM=",
     "repository": "caido-community/hackerutils"
+  },
+  {
+    "id": "template",
+    "name": "Template",
+    "license": "MIT",
+    "description": "Global Match & Replace rule template for Caido",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS/caido-template"
+    },
+    "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
+    "repository": "MDGDSS/caido-template"
   }
 ]
