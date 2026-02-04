@@ -19,11 +19,11 @@
     "description": "Bypass a 403 page with a set of templates",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA7hd15kPWlDAzJmMXXFRbVDD83T+0AWVk6OlgLwAgwFQ=",
-    "repository": "bebiksior/Caido403Bypasser"
+    "repository": "caido-community/Caido403Bypasser"
   },
   {
     "id": "evenbetter",
@@ -32,11 +32,11 @@
     "description": "Collection of tweaks and improvements for Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
-    "repository": "bebiksior/EvenBetter"
+    "repository": "caido-community/EvenBetter"
   },
   {
     "id": "caido-themes",
@@ -45,11 +45,11 @@
     "description": "A plugin for managing and customizing themes in Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEA2/J0S50jHKkeUah5eULQEK8eNcaJ1hCd62NLAO5MIWI=",
-    "repository": "bebiksior/CaidoThemes"
+    "repository": "caido-community/CaidoThemes"
   },
   {
     "id": "cursor-pen",
@@ -117,6 +117,19 @@
     "repository": "caido-community/quickssrf"
   },
   {
+    "id": "sequencer",
+    "name": "Sequencer",
+    "license": "MIT",
+    "description": "Token randomness analyzer",
+    "author": {
+      "name": "w2xim3",
+      "email": "dev@caido.io",
+      "url": "https://github.com/caido-community/sequencer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
+    "repository": "caido-community/sequencer"
+  },
+  {
     "id": "notesplusplus",
     "name": "Notes++",
     "license": "MIT",
@@ -162,11 +175,11 @@
     "description": "Discover hidden parameters in Caido",
     "author": {
       "name": "bebiks",
-      "email": "bebiks@cvssadvisor.com",
+      "email": "lukasz@caido.io",
       "url": "http://x.com/bebiksior"
     },
     "public_key": "MCowBQYDK2VwAyEAsyIyiFphSDMT0eu4fGKRVILeKU3gI5reVMrftBhYkXU=",
-    "repository": "bebiksior/ParamFinder"
+    "repository": "caido-community/ParamFinder"
   },
   {
     "id": "devtools",
@@ -240,11 +253,11 @@
     "description": "Detect, analyze, test and Attack JSON Web Tokens in web traffic",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAXru6JmKshtb2uZYF2VgLSoDFtARq6T05orqbv8JqYXk=",
-    "repository": "amrelsagaei/JWT-Analyzer"
+    "repository": "caido-community/JWT-Analyzer"
   },
   {
     "id": "squash",
@@ -331,11 +344,11 @@
     "description": "Side-by-side comparison of HTTP requests, responses, and files with visual difference highlighting",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAcyXTSEEfJpCg//PRCSCD5oJLycneeO4aDgFSpE6LH/I=",
-    "repository": "amrelsagaei/Compare"
+    "repository": "caido-community/Compare"
   },
   {
     "id": "redocs",
@@ -344,11 +357,11 @@
     "description": "Import Postman Collections & OpenAPI Specifications as Replay Sessions",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAV6dMAQFOHcjf8HMGBSX6ZybqldvZ+sb/f6YMF0J7NNg=",
-    "repository": "amrelsagaei/ReDocs"
+    "repository": "caido-community/ReDocs"
   },
   {
     "id": "chatio",
@@ -357,11 +370,11 @@
     "description": "An AI-powered assistant for hackers and security professionals built for Caido",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEA79GS1nlRq7UJobFjpUQo7pVo+SfR2+Gq2wKW4ncj/w4=",
-    "repository": "amrelsagaei/Chatio"
+    "repository": "caido-community/Chatio"
   },
   {
     "id": "scanner",
@@ -396,11 +409,11 @@
     "description": "Plugin for GraphQL schema discovery, visualization, and advanced security",
     "author": {
       "name": "Amr Elsagaei",
-      "email": "info@amrelsagaei.com",
+      "email": "amr@caido.io",
       "url": "https://amrelsagaei.com"
     },
     "public_key": "MCowBQYDK2VwAyEAO29lZ32flhJc/IMUkDzK2GypJynAOLxmeKzlfHbDnjA=",
-    "repository": "amrelsagaei/GraphQL-Analyzer"
+    "repository": "caido-community/GraphQL-Analyzer"
   },
   {
     "id": "ebka-ai-assistant",
@@ -462,7 +475,7 @@
     "author": {
       "name": "Saltify",
       "email": "saltify7@gmail.com",
-      "url":"https://github.com/saltify7"
+      "url": "https://github.com/saltify7"
     },
     "public_key": "MCowBQYDK2VwAyEAgWbmdtmPMaNQK81G7cToep5JxqMcMwF8txlbWGKkqQQ=",
     "repository": "saltify7/Authify"
@@ -481,16 +494,185 @@
     "repository": "caido-community/autorize"
   },
   {
-  "id": "notify",
-  "name": "Notify",
-  "license": "MIT",
-  "description": "Plugin to send Caido findings to notification platforms using ProjectDiscovery Notify",
-  "author": {
-    "name": "xvffdos",
-    "email": "dev@xvffdos.com",
-    "url": "https://github.com/MDGDSS/caido-notify"
+    "id": "hex",
+    "name": "Hex",
+    "license": "MIT",
+    "description": "Adds a hex viewer and editor to the History and Replay tabs",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEA7mnFhYg7vb00izB79EfkogCNlENCcyiheoo7xoI0RHk=",
+    "repository": "hahwul/Hex"
   },
-  "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
-  "repository": "MDGDSS/caido-notify"
-}
+  {
+    "id": "authswap",
+    "name": "Authswap",
+    "license": "MIT",
+    "description": "Quickly switch between different user authentication contexts during manual testing",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAKb/meWPz5b/CQk6aryY89D2lA1R0J5ZE49uZf4GTjYg=",
+    "repository": "caido-community/authswap"
+  },
+  {
+    "id": "retire-js",
+    "name": "RetireJS Scanner",
+    "license": "MIT",
+    "description": "Retire.js-like live or manual scanner for Caido: checks request/response URLs for outdated Javascript.",
+    "author": {
+      "name": "bensh",
+      "email": "no-reply@caido.community",
+      "url": "https://github.com/bensh"
+    },
+    "public_key": "MCowBQYDK2VwAyEAf7r0UnPhfkNC7yZGeD9Ql727GltOH5ArJQ1gPKnzFnk=",
+    "repository": "bensh/caido-retirejs"
+  },
+  {
+    "id": "screenshot-mode",
+    "name": "Screenshot Mode",
+    "license": "MIT",
+    "description": "Make pretty screenshots of your requests",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAq9vgqLVUtcQ3+m8R7v+Q7i+DmPy3YOW0UKun/tDrqCE=",
+    "repository": "caido-community/screenshot-mode"
+  },
+  {
+    "id": "slcyber-tools",
+    "name": "SLCyber Tools",
+    "license": "MIT",
+    "description": "A collection of tools from SLCyber including Surf for SSRF testing and SLCyber custom wordlists",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAagUsHYFJLPR/NslALJTWBSnT7TTv/i8pJ0iINvoKPZo=",
+    "repository": "caido-community/slcyber-tools"
+  },
+  {
+    "id": "caido-postman",
+    "name": "Caido Postman Integration",
+    "license": "MIT",
+    "description": "Search Postman public collections, import API requests with headers/body/auth, replay through Caido proxy, and filter HTTP history",
+    "author": {
+      "name": "OFJAAAH",
+      "email": "contact@ofjaaah.com",
+      "url": "https://github.com/KingOfBugbounty"
+    },
+    "public_key": "MCowBQYDK2VwAyEAWCaKbf+sIEo5jllWNwXjHz+E8r45ZhdtVjestX6EhhQ=",
+    "repository": "KingOfBugbounty/caido-postman"
+  },
+  {
+    "id": "ntlm",
+    "name": "NTLM Authentication",
+    "license": "MIT",
+    "description": "Plugin for NTLM authentication",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAY3dRLF+7DMWxMX4HDN+/ZDEcAqtBFZqQ5noOtZ2y41A=",
+    "repository": "caido-community/ntlm"
+  },
+  {
+    "id": "tor",
+    "name": "Tor",
+    "license": "MIT",
+    "description": "Allow connecting to the Tor network",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAlQPV2IbpGZ8SPNIybZIMruQdf3OdAwXXD8RQhQbaS28=",
+    "repository": "caido-community/tor"
+  },
+  {
+    "id": "crawler",
+    "name": "Crawler",
+    "license": "MIT",
+    "description": "Automatic website crawler for sitemap discovery",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAYqLQslCednjI1RKwpfFhSa6ImOBN7Qdh6wigo+CiI+A=",
+    "repository": "caido-community/crawler"
+  },
+  {
+    "id": "panes",
+    "name": "Panes",
+    "license": "MIT",
+    "description": "Custom view modes for HTTP requests and responses",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAvFJdudhzxVm5MsdDD9oejFuUUzBjtQ0GDcVKZZtEnX4=",
+    "repository": "caido-community/panes"
+  },
+  {
+    "id": "nomad-ip",
+    "name": "Nomad-ip",
+    "license": "MIT",
+    "description": "Rotate source IP using AWS API Gateway to bypass IP-based blocking",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAXCjwhmPMttl1JPvIbB4z7e55jEpNgZb7gs9cEduEPdY=",
+    "repository": "caido-community/nomad-ip"
+  },
+  {
+    "id": "hackerutils",
+    "name": "HackerUtils",
+    "license": "MIT",
+    "description": "A set of utilities for hackers to help with their manual testing.",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEAnJVXRa2wVG0AVimgkAMX9MYrJ6of7wkssnPMhLT8xOM=",
+    "repository": "caido-community/hackerutils"
+  },
+  {
+    "id": "template",
+    "name": "Template",
+    "license": "MIT",
+    "description": "Global Match & Replace rule template for Caido",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS/caido-template"
+    },
+    "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
+    "repository": "MDGDSS/caido-template"
+  },
+  {
+    "id": "notify",
+    "name": "Notify",
+    "license": "MIT",
+    "description": "Plugin to send Caido findings to notification platforms using ProjectDiscovery Notify",
+    "author": {
+      "name": "xvffdos",
+      "email": "dev@xvffdos.com",
+      "url": "https://github.com/MDGDSS/caido-notify"
+    },
+    "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
+    "repository": "MDGDSS/caido-notify"
+  }
 ]
