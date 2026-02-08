@@ -674,5 +674,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
     "repository": "MDGDSS/caido-notify"
+  },
+  {
+    "id": "vibe-hacking",
+    "name": "Vibe Hacking",
+    "license": "MIT",
+    "description": "MCP‑powered agent tools for Caido: normalized schemas, safe/unsafe controls, and consistent outputs.",
+    "author": {
+      "name": "vvvvvvvvvvel",
+      "email": "vvvvvvvvvvel@proton.me",
+      "url": "https://github.com/vvvvvvvvvvel/VibeHacking"
+    },
+    "public_key": "MCowBQYDK2VwAyEADLqy0hphs565DrT7YlY3bwkCF4UIR1m2/Tv1CLnfuOk=",
+    "repository": "vvvvvvvvvvel/VibeHacking"
   }
 ]
