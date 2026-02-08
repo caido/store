@@ -674,5 +674,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
     "repository": "MDGDSS/caido-notify"
+  },
+  {
+    "id": "Repo-Explorer",
+    "name": "RepoExplorer",
+    "license": "MIT",
+    "description": "Browse and explore content from GitHub repositories like PayloadsAllTheThings",
+    "author": {
+      "name": "Chriscz",
+      "email": "chrisczv@proton.me",
+      "url": "https://github.com/ChrisCZ2/RepoExplorer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAuPxuuzQN+cpZu7T4NzwaiLP1BN7R5Q6zqBVA3vWdWOg=",
+    "repository": "ChrisCZ2/RepoExplorer"
   }
 ]
