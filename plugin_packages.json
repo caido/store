@@ -676,7 +676,7 @@
     "repository": "MDGDSS/caido-notify"
   },
   {
-    "id": "jq-caido",
+    "id": "jq",
     "name": "JQ",
     "license": "MIT",
     "description": "Add a JQ view mode to HTTP History, Replay, Search and Sitemap for runnning jq queries against JSON request/response bodies with syntax highlighting and autocompletion.",
