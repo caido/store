@@ -12,20 +12,6 @@
     "public_key": "MCowBQYDK2VwAyEA+du2fw/I+CV6MKEpu0aJ1ki2+MO2V0SnaRB91+GbHwQ=",
     "repository": "caido-community/authmatrix"
   },
-{
-  "id": "mass-assignment-radar",
-  "name": "Mass Assignment Radar",
-  "license": "MIT",
-  "description": "Mutation-based Scanner",
-  "author": {
-    "name": "sp1r1t",
-    "email": "sp1r1t2026@protonmail.com",
-    "url": "https://github.com/sp1r1tt"
-  },
-  "public_key": "MCowBQYDK2VwAyEAuQ+CT3vItm4767dEntua4PLWFOV5KnXY19UNKvljyHs=",
-  "repository": "sp1r1tt/Mass-Assignment-Radar"
-}
-  
   {
     "id": "bypasser",
     "name": "403Bypasser",
@@ -688,5 +674,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAJnszsHN/Ra+hGJDdvE6zdLfRnrqTTsQB1aZZza3Hx4k=",
     "repository": "MDGDSS/caido-notify"
-  }
+  },
+  {
+    "id": "mass-assignment-radar",
+    "name": "Mass Assignment Radar",
+    "license": "MIT",
+    "description": "Mutation-based Scanner",
+    "author": {
+      "name": "sp1r1t",
+      "email": "sp1r1t2026@protonmail.com",
+      "url": "https://github.com/sp1r1tt"
+    },
+    "public_key": "MCowBQYDK2VwAyEAuQ+CT3vItm4767dEntua4PLWFOV5KnXY19UNKvljyHs=",
+    "repository": "sp1r1tt/Mass-Assignment-Radar"
+  }  
 ]
