@@ -676,6 +676,19 @@
     "repository": "MDGDSS/caido-notify"
   },
   {
+    "id": "host-header-injector",
+    "name": "Host Header Injector",
+    "license": "MIT",
+    "description": "Injects Host headers with payload variations",
+    "author": {
+      "name": "Kayra Oksuz",
+      "email": "oksuzkayra16@gmail.com",
+      "url": "https://github.com/oksuzkayra"
+    },
+    "public_key": "MCowBQYDK2VwAyEA6giQjLxQAEh20aoTXkVE+k9urjO6XFpWJLNrWkriVZc=",
+    "repository": "oksuzkayra/host-header-injector"
+  },
+  {
     "id": "mass-assignment-radar",
     "name": "Mass Assignment Radar",
     "license": "MIT",
