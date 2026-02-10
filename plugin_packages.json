@@ -679,13 +679,13 @@
     "id": "jq",
     "name": "JQ",
     "license": "MIT",
-    "description": "Add a JQ view mode to HTTP History, Replay, Search and Sitemap for runnning jq queries against JSON request/response bodies with syntax highlighting and autocompletion.",
+    "description": "Add a JQ view mode to HTTP History, Replay, Search and Sitemap for running jq queries against JSON request/response bodies with syntax highlighting and autocompletion.",
     "author": {
-      "name": "aleiser1102",
+      "name": "aleister1102",
       "email": "marucube35@gmail.com",
       "url": "https://github.com/aleister1102/jq-caido"
     },
     "public_key": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
     "repository": "aleister1102/jq-caido"
-    }
+  }
 ]
