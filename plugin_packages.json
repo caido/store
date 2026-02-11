@@ -687,5 +687,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
     "repository": "aleister1102/jq-caido"
+  },
+  {
+    "id": "host-header-injector",
+    "name": "Host Header Injector",
+    "license": "MIT",
+    "description": "Injects Host headers with payload variations",
+    "author": {
+      "name": "Kayra Oksuz",
+      "email": "oksuzkayra16@gmail.com",
+      "url": "https://github.com/oksuzkayra"
+    },
+    "public_key": "MCowBQYDK2VwAyEA6giQjLxQAEh20aoTXkVE+k9urjO6XFpWJLNrWkriVZc=",
+    "repository": "oksuzkayra/host-header-injector"
   }
 ]
