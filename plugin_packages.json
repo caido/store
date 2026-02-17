@@ -700,5 +700,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA6giQjLxQAEh20aoTXkVE+k9urjO6XFpWJLNrWkriVZc=",
     "repository": "oksuzkayra/host-header-injector"
-  }
+  },
+  {
+    "id": "mass-assignment-radar",
+    "name": "Mass Assignment Radar",
+    "license": "MIT",
+    "description": "Mutation-based Scanner",
+    "author": {
+      "name": "sp1r1t",
+      "email": "sp1r1t2026@protonmail.com",
+      "url": "https://github.com/sp1r1tt"
+    },
+    "public_key": "MCowBQYDK2VwAyEAuQ+CT3vItm4767dEntua4PLWFOV5KnXY19UNKvljyHs=",
+    "repository": "sp1r1tt/Mass-Assignment-Radar"
+  }  
 ]
