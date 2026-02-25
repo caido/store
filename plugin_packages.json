@@ -687,5 +687,44 @@
     },
     "public_key": "MCowBQYDK2VwAyEADLqy0hphs565DrT7YlY3bwkCF4UIR1m2/Tv1CLnfuOk=",
     "repository": "vvvvvvvvvvel/VibeHacking"
-  }
+  },
+  {
+    "id": "jq",
+    "name": "JQ",
+    "license": "MIT",
+    "description": "Add a JQ view mode to HTTP History, Replay, Search and Sitemap for running jq queries against JSON request/response bodies with syntax highlighting and autocompletion.",
+    "author": {
+      "name": "aleister1102",
+      "email": "marucube35@gmail.com",
+      "url": "https://github.com/aleister1102/jq-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEA9tbqpm9xNMY/0xiMj8wQ6kTBFUcxnxPUn9YXXt424q4=",
+    "repository": "aleister1102/jq-caido"
+  },
+  {
+    "id": "host-header-injector",
+    "name": "Host Header Injector",
+    "license": "MIT",
+    "description": "Injects Host headers with payload variations",
+    "author": {
+      "name": "Kayra Oksuz",
+      "email": "oksuzkayra16@gmail.com",
+      "url": "https://github.com/oksuzkayra"
+    },
+    "public_key": "MCowBQYDK2VwAyEA6giQjLxQAEh20aoTXkVE+k9urjO6XFpWJLNrWkriVZc=",
+    "repository": "oksuzkayra/host-header-injector"
+  },
+  {
+    "id": "mass-assignment-radar",
+    "name": "Mass Assignment Radar",
+    "license": "MIT",
+    "description": "Mutation-based Scanner",
+    "author": {
+      "name": "sp1r1t",
+      "email": "sp1r1t2026@protonmail.com",
+      "url": "https://github.com/sp1r1tt"
+    },
+    "public_key": "MCowBQYDK2VwAyEAuQ+CT3vItm4767dEntua4PLWFOV5KnXY19UNKvljyHs=",
+    "repository": "sp1r1tt/Mass-Assignment-Radar"
+  }  
 ]
