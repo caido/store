@@ -740,9 +740,7 @@
     "public_key": "MCowBQYDK2VwAyEA+cxMLKCpemSYP1Rh2ViLbko/zsfbliUvR1rWs4EUuws=",
     "repository": "caido-community/JS-Analyzer"
   },
-   {
-    "public_key": "MCowBQYDK2VwAyEA+cxMLKCpemSYP1Rh2ViLbko/zsfbliUvR1rWs4EUuws=",
-    "repository": "caido-community/JS-Analyzer"
+  {
     "id": "repo-explorer",
     "name": "RepoExplorer",
     "license": "MIT",
