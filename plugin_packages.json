@@ -728,6 +728,19 @@
     "repository": "sp1r1tt/Mass-Assignment-Radar"
   },
   {
+    "id": "js-analyzer",
+    "name": "JS Analyzer",
+    "license": "MIT",
+    "description": "JavaScript and static file analysis",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+cxMLKCpemSYP1Rh2ViLbko/zsfbliUvR1rWs4EUuws=",
+    "repository": "caido-community/JS-Analyzer"
+  },
+  {
     "id": "repo-explorer",
     "name": "RepoExplorer",
     "license": "MIT",
