@@ -728,7 +728,7 @@
     "repository": "sp1r1tt/Mass-Assignment-Radar"
   },
   {
-    "id": "Repo-Explorer",
+    "id": "repo-explorer",
     "name": "RepoExplorer",
     "license": "MIT",
     "description": "Browse and explore content from GitHub repositories like PayloadsAllTheThings",
