@@ -728,6 +728,19 @@
     "repository": "sp1r1tt/Mass-Assignment-Radar"
   },
   {
+    "id": "ssrfind",
+    "name": "SSRFind",
+    "license": "MIT",
+    "description": "Passive SSRF detection with phased probing and OOB confirmation",
+    "author": {
+      "name": "d0xng",
+      "email": "letoilefederico@gmail.com",
+      "url": "https://github.com/d0xng/SSRFind"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+RUKGA2IR9VlJdMDEu6AuzfXCkl7RAsvhCmLr0EPXkc=",
+    "repository": "d0xng/SSRFind"
+  },
+  {
     "id": "repo-explorer",
     "name": "RepoExplorer",
     "license": "MIT",
