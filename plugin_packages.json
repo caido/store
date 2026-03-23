@@ -791,5 +791,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAPNTjElLMLZZQ5LIn/Vl3L/v2RHpyatwsGqYuu5aP+3E=",
     "repository": "Hackerest/CaidoIISTildeEnumeration"
+  },
+  {
+    "id": "dispatch",
+    "name": "Dispatch",
+    "license": "MIT",
+    "description": "Send HTTP requests to external CLI security tools with one click",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez/dispatch"
+    },
+    "public_key": "MCowBQYDK2VwAyEAgXa3XzwD/2vXVi7JTGLtcc4hvyunDf18noFszltbXz0=",
+    "repository": "six2dez/dispatch"
   }
 ]
