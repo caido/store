@@ -1,5 +1,18 @@
 [
   {
+    "id": "reqres-exporter",
+    "name": "ReqRes Exporter",
+    "license": "MIT",
+    "description": "Copy or save HTTP request+response pairs to clipboard or file with one click.",
+    "author": {
+      "name": "Jakob Pachmann",
+      "email": "jakob.pachmann@proton.me",
+      "url": "https://github.com/v0xyc0n"
+    },
+    "public_key": "MCowBQYDK2VwAyEA0uLlulDp0TC0Et3AMJWGgA8yTCHQA5znCNKz8MIlJs8=",
+    "repository": "v0xyc0n/caido-reqres-exporter"
+  },
+  {
     "id": "authmatrix",
     "name": "AuthMatrix",
     "license": "MIT",
