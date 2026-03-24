@@ -1,4 +1,18 @@
 [
+
+  {
+    "id": "inspector",
+    "name": "Inspector",
+    "license": "MIT",
+    "description": "Save interesting requests to a persistent list for later review.",
+    "author": {
+      "name": "Jakob Pachmann",
+      "email": "jakob.pachmann@proton.me",
+      "url": "https://github.com/v0xyc0n"
+    },
+    "public_key": "MCowBQYDK2VwAyEA0uLlulDp0TC0Et3AMJWGgA8yTCHQA5znCNKz8MIlJs8=",
+    "repository": "v0xyc0n/caido-inspector"
+  },
   {
     "id": "authmatrix",
     "name": "AuthMatrix",
