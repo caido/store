@@ -739,6 +739,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA+RUKGA2IR9VlJdMDEu6AuzfXCkl7RAsvhCmLr0EPXkc=",
     "repository": "d0xng/SSRFind"
+
+    "id": "js-analyzer",
+    "name": "JS Analyzer",
+    "license": "MIT",
+    "description": "JavaScript and static file analysis",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA+cxMLKCpemSYP1Rh2ViLbko/zsfbliUvR1rWs4EUuws=",
+    "repository": "caido-community/JS-Analyzer"
   },
   {
     "id": "repo-explorer",
