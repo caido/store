@@ -739,7 +739,8 @@
     },
     "public_key": "MCowBQYDK2VwAyEA+RUKGA2IR9VlJdMDEu6AuzfXCkl7RAsvhCmLr0EPXkc=",
     "repository": "d0xng/SSRFind"
-
+  },
+  {
     "id": "js-analyzer",
     "name": "JS Analyzer",
     "license": "MIT",
