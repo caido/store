@@ -986,5 +986,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA3u/vKRbgONuUKYaeprFbpWCjpclu2jNmYULZvlChuc0=",
     "repository": "amrelsagaei/race"
+  },
+  {
+    "id": "shadowshell",
+    "name": "ShadowShell",
+    "license": "MIT",
+    "description": "Multi-terminal plugin for Caido with AI presets and instant Cmd+J access",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjpvyPGmqgAQyiXEN4DtR345SgvmnfptLcBQ2VVPnKKc=",
+    "repository": "hahwul/ShadowShell"
   }
 ]
