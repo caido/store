@@ -65,6 +65,19 @@
     "repository": "BugBountyzip/CaidoDrawing"
   },
   {
+    "id": "domloggerpp",
+    "name": "DOMLogger++",
+    "license": "GPL-3.0",
+    "description": "A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.",
+    "author": {
+      "name": "kevin-mizu",
+      "email": "kevin.mizu@protonmail.com",
+      "url": "https://x.com/kevin_mizu"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4D3AtXZmlqQmxQrHKyqFFHNkIg9skWN8beWvnp0cD+Y=",
+    "repository": "kevin-mizu/domloggerpp-caido"
+  },
+  {
     "id": "pwnfox",
     "name": "PwnFox",
     "license": "MIT",
