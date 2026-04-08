@@ -765,5 +765,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAuPxuuzQN+cpZu7T4NzwaiLP1BN7R5Q6zqBVA3vWdWOg=",
     "repository": "ChrisCZ2/RepoExplorer"
-  }  
+  },
+  {
+    "id": "iis-tilde-enumeration",
+    "name": "IIS Tilde Enumeration",
+    "license": "MIT",
+    "description": "Enumerate IIS 8.3 shortnames using differential tilde probes.",
+    "author": {
+      "name": "Hackerest",
+      "email": "support@hackerest.com",
+      "url": "https://hackerest.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAPNTjElLMLZZQ5LIn/Vl3L/v2RHpyatwsGqYuu5aP+3E=",
+    "repository": "Hackerest/CaidoIISTildeEnumeration"
+  }
 ]
