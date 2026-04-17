@@ -109,9 +109,9 @@
     "license": "MIT",
     "description": "Real-time Interaction Monitoring with Interactsh",
     "author": {
-      "name": "Amr Elsagaei",
-      "email": "amr@caido.io",
-      "url": "https://amrelsagaei.com"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
     "repository": "caido-community/quickssrf"
@@ -434,9 +434,9 @@
     "license": "MIT",
     "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
     "author": {
-      "name": "Amr Elsagaei",
-      "email": "amr@caido.io",
-      "url": "https://amrelsagaei.com"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
     "repository": "caido-community/csp-auditor"
