@@ -793,16 +793,16 @@
     "repository": "Hackerest/CaidoIISTildeEnumeration"
   },
   {
-      "id": "drift",
-      "name": "Drift",
-      "license": "MIT",
-      "description": "Security AI helper for Caido: pipes your local Claude Code / Gemini / Codex / Copilot CLI through 18 MCP tools for manual web security testing. Local-first, no API keys.",
-      "author": {
-        "name": "six2dez",
-        "email": "six2dez@gmail.com",
-        "url": "https://github.com/six2dez/drift"
-      },
-      "public_key": "MCowBQYDK2VwAyEAiIogh/4GdtqySQlSJdOfFhktZAXnJwdNwxXm68m0tiM=",
-      "repository": "six2dez/drift"
-    }
+    "id": "drift",
+    "name": "Drift",
+    "license": "MIT",
+    "description": "Security AI helper for Caido: pipes your local Claude Code / Gemini / Codex / Copilot CLI through 18 MCP tools for manual web security testing. Local-first, no API keys.",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez/drift"
+    },
+    "public_key": "MCowBQYDK2VwAyEAiIogh/4GdtqySQlSJdOfFhktZAXnJwdNwxXm68m0tiM=",
+    "repository": "six2dez/drift"
+  }
 ]
