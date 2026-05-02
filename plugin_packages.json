@@ -1,5 +1,18 @@
 [
   {
+    "id": "nextjs-actions-analyzer",
+    "name": "Next.js Actions Analyzer",
+    "license": "MIT",
+    "description": "Analyze Next.js Server Actions",
+    "author": {
+      "name": "fir3cr4ckers",
+      "email": "fir3cr4ckers@proton.me",
+      "url": "https://github.com/yassinebk"
+    },
+    "public_key": "MCowBQYDK2VwAyEAvtAQo4EcFVuKn+VCG5qrZLZUapSmyU1EWV2HkGkknDU=",
+    "repository": "yassinebk/CaidoNextJSActionsAnalyzer"
+  },
+  {
     "id": "authmatrix",
     "name": "AuthMatrix",
     "license": "MIT",
@@ -65,6 +78,19 @@
     "repository": "BugBountyzip/CaidoDrawing"
   },
   {
+    "id": "domloggerpp",
+    "name": "DOMLogger++",
+    "license": "GPL-3.0",
+    "description": "A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.",
+    "author": {
+      "name": "kevin-mizu",
+      "email": "kevin.mizu@protonmail.com",
+      "url": "https://x.com/kevin_mizu"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4D3AtXZmlqQmxQrHKyqFFHNkIg9skWN8beWvnp0cD+Y=",
+    "repository": "kevin-mizu/domloggerpp-caido"
+  },
+  {
     "id": "pwnfox",
     "name": "PwnFox",
     "license": "MIT",
@@ -109,9 +135,9 @@
     "license": "MIT",
     "description": "Real-time Interaction Monitoring with Interactsh",
     "author": {
-      "name": "w2xim3",
+      "name": "Caido Labs Inc.",
       "email": "dev@caido.io",
-      "url": "https://github.com/caido-community/quickssrf"
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
     "repository": "caido-community/quickssrf"
@@ -434,12 +460,12 @@
     "license": "MIT",
     "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
     "author": {
-      "name": "ads dawson",
-      "email": "ads@offsecmoose.xyz",
-      "url": "https://github.com/GangGreenTemperTatum"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
-    "repository": "GangGreenTemperTatum/csp-auditor"
+    "repository": "caido-community/csp-auditor"
   },
   {
     "id": "tab-renammer",
@@ -765,5 +791,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAjpvyPGmqgAQyiXEN4DtR345SgvmnfptLcBQ2VVPnKKc=",
     "repository": "hahwul/ShadowShell"
+  },
+  {
+    "id": "iis-tilde-enumeration",
+    "name": "IIS Tilde Enumeration",
+    "license": "MIT",
+    "description": "Enumerate IIS 8.3 shortnames using differential tilde probes.",
+    "author": {
+      "name": "Hackerest",
+      "email": "support@hackerest.com",
+      "url": "https://hackerest.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAPNTjElLMLZZQ5LIn/Vl3L/v2RHpyatwsGqYuu5aP+3E=",
+    "repository": "Hackerest/CaidoIISTildeEnumeration"
   }
 ]
