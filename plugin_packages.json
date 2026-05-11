@@ -791,5 +791,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAPNTjElLMLZZQ5LIn/Vl3L/v2RHpyatwsGqYuu5aP+3E=",
     "repository": "Hackerest/CaidoIISTildeEnumeration"
+  },
+  {
+    "id": "project-minify",
+    "name": "Project Minify",
+    "license": "MIT",
+    "description": "Quickly reduce project size by transferring important data into another project",
+    "author": {
+      "name": "Saltify",
+      "email": "saltify7@gmail.com",
+      "url": "https://github.com/saltify7"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjAdpuBsAe14P2WCkuPaya0hEODbmFKZwS5NHg/RTacY=",
+    "repository": "saltify7/Project-Minify"
   }
 ]
