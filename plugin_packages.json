@@ -585,8 +585,6 @@
     "repository": "caido-community/slcyber-tools"
   },
   {
-    "public_key": "MCowBQYDK2VwAyEAjAdpuBsAe14P2WCkuPaya0hEODbmFKZwS5NHg/RTacY=",
-    "repository": "saltify7/Project-Minify"
     "id": "caido-postman",
     "name": "Caido Postman Integration",
     "license": "MIT",
