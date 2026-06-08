@@ -135,9 +135,9 @@
     "license": "MIT",
     "description": "Real-time Interaction Monitoring with Interactsh",
     "author": {
-      "name": "w2xim3",
+      "name": "Caido Labs Inc.",
       "email": "dev@caido.io",
-      "url": "https://github.com/caido-community/quickssrf"
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAeTpbm+s6IsPfUHSa/O8TxyI4gAQIyL1ZVvaAb2GC3xs=",
     "repository": "caido-community/quickssrf"
@@ -460,12 +460,12 @@
     "license": "MIT",
     "description": "Audit and analyze Content Security Policies (CSP) in Caido with bypass gadget library",
     "author": {
-      "name": "ads dawson",
-      "email": "ads@offsecmoose.xyz",
-      "url": "https://github.com/GangGreenTemperTatum"
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
     },
     "public_key": "MCowBQYDK2VwAyEAfGM50cwF4CQSmWpcAIZpt+C0DIL1WZnwyzZN48SgLq0=",
-    "repository": "GangGreenTemperTatum/csp-auditor"
+    "repository": "caido-community/csp-auditor"
   },
   {
     "id": "tab-renammer",
@@ -804,5 +804,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA2G8H1HUbadmi8Rbmxc0ywtRsDN9hzFz4l2/SC0UHEBU=",
     "repository": "amrelsagaei/Resurface"
+  },
+  {
+    "id": "project-minify",
+    "name": "Project Minify",
+    "license": "MIT",
+    "description": "Quickly reduce project size by transferring important data into another project",
+    "author": {
+      "name": "Saltify",
+      "email": "saltify7@gmail.com",
+      "url": "https://github.com/saltify7"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjAdpuBsAe14P2WCkuPaya0hEODbmFKZwS5NHg/RTacY=",
+    "repository": "saltify/Project-Minify"
   }
 ]
