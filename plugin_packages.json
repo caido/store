@@ -804,5 +804,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAjAdpuBsAe14P2WCkuPaya0hEODbmFKZwS5NHg/RTacY=",
     "repository": "saltify7/Project-Minify"
+  },
+  {
+    "id": "param-logger",
+    "name": "Param Logger",
+    "license": "MIT",
+    "description": "Passively logs HTTP parameters from proxied traffic into a searchable parameter map",
+    "author": {
+      "name": "David Drobny",
+      "email": "david.drobny123@gmail.com",
+      "url": "https://github.com/davidus27"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjCoIKJEyiEx6awLsxj6/WmOWvFlRTuURntX7U0+0UoA=",
+    "repository": "davidus27/ParamLogger"
   }
 ]
