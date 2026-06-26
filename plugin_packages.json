@@ -793,6 +793,19 @@
     "repository": "Hackerest/CaidoIISTildeEnumeration"
   },
   {
+    "id": "resurface",
+    "name": "Resurface",
+    "license": "MIT",
+    "description": "Plant a canary token and get alerted when it resurfaces in later traffic.",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "amr@caido.io",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEA2G8H1HUbadmi8Rbmxc0ywtRsDN9hzFz4l2/SC0UHEBU=",
+    "repository": "amrelsagaei/Resurface"
+  },
+  {
     "id": "project-minify",
     "name": "Project Minify",
     "license": "MIT",
@@ -817,6 +830,19 @@
     },
     "public_key": "MCowBQYDK2VwAyEAjCoIKJEyiEx6awLsxj6/WmOWvFlRTuURntX7U0+0UoA=",
     "repository": "davidus27/ParamLogger"
+  },
+  {
+    "id": "uploadsmith",
+    "name": "UploadSmith",
+    "license": "MIT",
+    "description": "File upload testing helper for content types, filename extensions, and magic bytes.",
+    "author": {
+      "name": "Waris Damkham",
+      "email": "waris.dam@outlook.com",
+      "url": "https://github.com/Waariss"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4AOkAd1UWoy7Y32ubYEM9TYMCP5loqN2BmjnJn1Sa2Y=",
+    "repository": "Waariss/uploadsmith-caido"
   },
   {
     "id": "drift",
