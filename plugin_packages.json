@@ -832,6 +832,32 @@
     "repository": "davidus27/ParamLogger"
   },
   {
+    "id": "uploadsmith",
+    "name": "UploadSmith",
+    "license": "MIT",
+    "description": "File upload testing helper for content types, filename extensions, and magic bytes.",
+    "author": {
+      "name": "Waris Damkham",
+      "email": "waris.dam@outlook.com",
+      "url": "https://github.com/Waariss"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4AOkAd1UWoy7Y32ubYEM9TYMCP5loqN2BmjnJn1Sa2Y=",
+    "repository": "Waariss/uploadsmith-caido"
+  },
+  {
+    "id": "drift",
+    "name": "Drift",
+    "license": "MIT",
+    "description": "Security AI helper for Caido: pipes your local Claude Code / Gemini / Codex / Copilot CLI through 18 MCP tools for manual web security testing. Local-first, no API keys.",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez/drift"
+    },
+    "public_key": "MCowBQYDK2VwAyEAiIogh/4GdtqySQlSJdOfFhktZAXnJwdNwxXm68m0tiM=",
+    "repository": "six2dez/drift"
+  },
+  {
     "id": "reqres-exporter",
     "name": "ReqRes Exporter",
     "license": "MIT",
