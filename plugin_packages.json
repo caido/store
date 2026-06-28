@@ -869,5 +869,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEA0uLlulDp0TC0Et3AMJWGgA8yTCHQA5znCNKz8MIlJs8=",
     "repository": "v0xyc0n/caido-reqres-exporter"
+  },
+  {
+    "id": "stash",
+    "name": "Stash",
+    "license": "MIT",
+    "description": "Bookmark HTTP History requests so they are easy to find, review, and reopen later.",
+    "author": {
+      "name": "Caleb Kinney",
+      "email": "caleb@typeerror.com",
+      "url": "https://typeerror.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAxymXo2ReE6hKMB3163HtYir8+MbAdD80U3GOlDXjb5U=",
+    "repository": "TypeError/stash"
   }
 ]
