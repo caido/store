@@ -882,5 +882,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAxymXo2ReE6hKMB3163HtYir8+MbAdD80U3GOlDXjb5U=",
     "repository": "TypeError/stash"
+  },
+    {
+    "id": "pdf-preview",
+    "name": "PDF Preview",
+    "license": "MIT",
+    "description": "Preview PDF HTTP responses directly in the Response viewer using pdf.js",
+    "author": {
+      "name": "William Le Berre",
+      "email": "william.leberre@gmail.com",
+      "url": "https://github.com/serizao"
+    },
+    "public_key": "MCowBQYDK2VwAyEAaexrLuktzsbOMrm1qJbxYJXIOz8wRsMEQ+omv0YOFW8=",
+    "repository": "serizao/caidoPDF"
   }
 ]
