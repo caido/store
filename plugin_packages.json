@@ -780,6 +780,19 @@
     "repository": "ChrisCZ2/RepoExplorer"
   },
   {
+    "id": "shadowshell",
+    "name": "ShadowShell",
+    "license": "MIT",
+    "description": "Multi-terminal plugin for Caido with AI presets and instant Cmd+J access",
+    "author": {
+      "name": "hahwul",
+      "email": "hahwul@gmail.com",
+      "url": "https://www.hahwul.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjpvyPGmqgAQyiXEN4DtR345SgvmnfptLcBQ2VVPnKKc=",
+    "repository": "hahwul/ShadowShell"
+  },
+  {
     "id": "iis-tilde-enumeration",
     "name": "IIS Tilde Enumeration",
     "license": "MIT",
