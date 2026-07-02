@@ -895,5 +895,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAaexrLuktzsbOMrm1qJbxYJXIOz8wRsMEQ+omv0YOFW8=",
     "repository": "serizao/caidoPDF"
+  },
+    {
+    "id": "supascan",
+    "name": "SupaScan",
+    "license": "MIT",
+    "description": "Supabase misconfiguration scanner",
+    "author": {
+      "name": "Cha0s",
+      "email": "notcha0s@proton.me",
+      "url": "https://x.com/imnotcha0s"
+    },
+    "public_key": "MCowBQYDK2VwAyEAYBB6cTZK+iyvlD8t2USNPMdlFtLHyhoz3lw3ybSg3e8=",
+    "repository": "imnotcha0s/supascan-caido"
   }
 ]
