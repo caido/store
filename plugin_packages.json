@@ -899,9 +899,7 @@
     {
     "id": "supascan",
     "name": "SupaScan",
-    "version": "0.1.0",
     "license": "MIT",
-    "description": "Preview PDF HTTP responses directly in the Response viewer using pdf.js",
     "description": "Supabase misconfiguration scanner",
     "author": {
       "name": "Cha0s",
