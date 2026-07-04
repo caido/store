@@ -705,7 +705,7 @@
     "id": "vibe-hacking",
     "name": "Vibe Hacking",
     "license": "MIT",
-    "description": "MCP‑powered agent tools for Caido: normalized schemas, safe/unsafe controls, and consistent outputs.",
+    "description": "MCP\u2011powered agent tools for Caido: normalized schemas, safe/unsafe controls, and consistent outputs.",
     "author": {
       "name": "vvvvvvvvvvel",
       "email": "vvvvvvvvvvel@proton.me",
@@ -883,7 +883,7 @@
     "public_key": "MCowBQYDK2VwAyEAxymXo2ReE6hKMB3163HtYir8+MbAdD80U3GOlDXjb5U=",
     "repository": "TypeError/stash"
   },
-    {
+  {
     "id": "pdf-preview",
     "name": "PDF Preview",
     "license": "MIT",
@@ -896,7 +896,7 @@
     "public_key": "MCowBQYDK2VwAyEAaexrLuktzsbOMrm1qJbxYJXIOz8wRsMEQ+omv0YOFW8=",
     "repository": "serizao/caidoPDF"
   },
-    {
+  {
     "id": "supascan",
     "name": "SupaScan",
     "license": "MIT",
@@ -908,5 +908,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAYBB6cTZK+iyvlD8t2USNPMdlFtLHyhoz3lw3ybSg3e8=",
     "repository": "imnotcha0s/supascan-caido"
+  },
+  {
+    "id": "h1caido",
+    "name": "H1Caido",
+    "license": "MIT",
+    "description": "Bring your HackerOne programs, scopes and reward tables straight into Caido.",
+    "author": {
+      "name": "V3locidad",
+      "email": "v3locidad@v3locidad.com",
+      "url": "https://github.com/V3locidad"
+    },
+    "public_key": "MCowBQYDK2VwAyEAVIMaBTGYifd0X7/iRXLdxDlDajEyqx5XxkfoVIodqzs=",
+    "repository": "V3locidad/h1-caido"
   }
 ]
