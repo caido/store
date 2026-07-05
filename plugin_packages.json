@@ -921,5 +921,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAVIMaBTGYifd0X7/iRXLdxDlDajEyqx5XxkfoVIodqzs=",
     "repository": "V3locidad/h1-caido"
+  },
+  {
+    "id": "caido-lookup",
+    "name": "Disclosure Lookup",
+    "license": "MIT",
+    "description": "Look up the security-disclosure contact for any host via lookup.disclose.io. Right-click a request to find where to report a vulnerability.",
+    "author": {
+      "name": "disclose.io",
+      "email": "hello@disclose.io",
+      "url": "https://github.com/disclose"
+    },
+    "public_key": "MCowBQYDK2VwAyEAxRcCJy1dsCeQVMKLtQBUuCv8T/FWI/5l2MiR3X/9Aw8=",
+    "repository": "disclose/caido-lookup"
   }
 ]
