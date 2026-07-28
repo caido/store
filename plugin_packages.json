@@ -934,5 +934,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAxRcCJy1dsCeQVMKLtQBUuCv8T/FWI/5l2MiR3X/9Aw8=",
     "repository": "disclose/caido-lookup"
+  },
+  {
+    "id": "path-crawler",
+    "name": "Path Crawler",
+    "license": "MIT",
+    "description": "Passive path discovery from proxied traffic — host-grouped sitemap, JS path extraction, and CDN referer labels.",
+    "author": {
+      "name": "0x2458",
+      "X": "https://x.com/0x2458",
+      "url": "https://github.com/0x2458bughunt"
+    },
+    "public_key": "MCowBQYDK2VwAyEALxJ9vDf8SKQOlKmL3UNm/VWuspD1mK1bZeN4uGBxRtU=",
+    "repository": "0x2458bughunt/caido-path-crawler"
   }
 ]
