@@ -947,5 +947,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEALxJ9vDf8SKQOlKmL3UNm/VWuspD1mK1bZeN4uGBxRtU=",
     "repository": "0x2458bughunt/caido-path-crawler"
+  },
+  {
+    "id": "vigolium",
+    "name": "Vigolium",
+    "license": "MIT",
+    "description": "Send Caido traffic to the Vigolium scanning engine, review findings, and bridge traffic with the Vigolium CLI and server",
+    "author": {
+      "name": "Vigolium",
+      "email": "jessie@vigolium.com",
+      "url": "https://github.com/vigolium/vigolium"
+    },
+    "public_key": "MCowBQYDK2VwAyEATha5rzZMhng0Bvv3hMGeOs/CSVUnRZRXmsQIRz8EIuk=",
+    "repository": "vigolium/caido-vigolium"
   }
 ]
