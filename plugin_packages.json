@@ -962,6 +962,19 @@
     "repository": "vigolium/caido-vigolium"
   },
   {
+    "id": "jssecrets",
+    "name": "JS Secrets",
+    "license": "MIT",
+    "description": "Scans proxied JavaScript files for leaked API keys, tokens and credentials",
+    "author": {
+      "name": "Diego Espindola",
+      "email": "espindola@protonmail.com",
+      "url": "https://github.com/diegoespindola"
+    },
+    "public_key": "MCowBQYDK2VwAyEAqsL7o+33q9Lo+f4QDXy8nvC/ZH8B+UQE2zt1xSKoMbc=",
+    "repository": "diegoespindola/jssecrets-caido-plugin"
+  },
+  {
     "id": "dispatch",
     "name": "Dispatch",
     "license": "MIT",
