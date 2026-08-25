@@ -705,7 +705,7 @@
     "id": "vibe-hacking",
     "name": "Vibe Hacking",
     "license": "MIT",
-    "description": "MCP‑powered agent tools for Caido: normalized schemas, safe/unsafe controls, and consistent outputs.",
+    "description": "MCP\u2011powered agent tools for Caido: normalized schemas, safe/unsafe controls, and consistent outputs.",
     "author": {
       "name": "vvvvvvvvvvel",
       "email": "vvvvvvvvvvel@proton.me",
@@ -819,16 +819,172 @@
     "repository": "saltify7/Project-Minify"
   },
   {
-	"id": "race",
-	"name": "Race",
-	"license": "MIT",
-	"description": "Fire synchronized request bursts to catch HTTP race conditions.",
-	"author": {
-		"name": "Amr Elsagaei",
-		"email": "amr@caido.io",
-		"url": "https://amrelsagaei.com"
-	},
-	"public_key": "MCowBQYDK2VwAyEA3u/vKRbgONuUKYaeprFbpWCjpclu2jNmYULZvlChuc0=",
-	"repository": "amrelsagaei/race"
+    "id": "param-logger",
+    "name": "Param Logger",
+    "license": "MIT",
+    "description": "Passively logs HTTP parameters from proxied traffic into a searchable parameter map",
+    "author": {
+      "name": "David Drobny",
+      "email": "david.drobny123@gmail.com",
+      "url": "https://github.com/davidus27"
+    },
+    "public_key": "MCowBQYDK2VwAyEAjCoIKJEyiEx6awLsxj6/WmOWvFlRTuURntX7U0+0UoA=",
+    "repository": "davidus27/ParamLogger"
+  },
+  {
+    "id": "uploadsmith",
+    "name": "UploadSmith",
+    "license": "MIT",
+    "description": "File upload testing helper for content types, filename extensions, and magic bytes.",
+    "author": {
+      "name": "Waris Damkham",
+      "email": "waris.dam@outlook.com",
+      "url": "https://github.com/Waariss"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4AOkAd1UWoy7Y32ubYEM9TYMCP5loqN2BmjnJn1Sa2Y=",
+    "repository": "Waariss/uploadsmith-caido"
+  },
+  {
+    "id": "drift",
+    "name": "Drift",
+    "license": "MIT",
+    "description": "Security AI helper for Caido: pipes your local Claude Code / Gemini / Codex / Copilot CLI through 18 MCP tools for manual web security testing. Local-first, no API keys.",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez/drift"
+    },
+    "public_key": "MCowBQYDK2VwAyEAiIogh/4GdtqySQlSJdOfFhktZAXnJwdNwxXm68m0tiM=",
+    "repository": "six2dez/drift"
+  },
+  {
+    "id": "reqres-exporter",
+    "name": "ReqRes Exporter",
+    "license": "MIT",
+    "description": "Copy or save HTTP request+response pairs to clipboard or file with one click.",
+    "author": {
+      "name": "Jakob Pachmann",
+      "email": "jakob.pachmann@proton.me",
+      "url": "https://github.com/v0xyc0n"
+    },
+    "public_key": "MCowBQYDK2VwAyEA0uLlulDp0TC0Et3AMJWGgA8yTCHQA5znCNKz8MIlJs8=",
+    "repository": "v0xyc0n/caido-reqres-exporter"
+  },
+  {
+    "id": "stash",
+    "name": "Stash",
+    "license": "MIT",
+    "description": "Bookmark HTTP History requests so they are easy to find, review, and reopen later.",
+    "author": {
+      "name": "Caleb Kinney",
+      "email": "caleb@typeerror.com",
+      "url": "https://typeerror.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAxymXo2ReE6hKMB3163HtYir8+MbAdD80U3GOlDXjb5U=",
+    "repository": "TypeError/stash"
+  },
+  {
+    "id": "pdf-preview",
+    "name": "PDF Preview",
+    "license": "MIT",
+    "description": "Preview PDF HTTP responses directly in the Response viewer using pdf.js",
+    "author": {
+      "name": "William Le Berre",
+      "email": "william.leberre@gmail.com",
+      "url": "https://github.com/serizao"
+    },
+    "public_key": "MCowBQYDK2VwAyEAaexrLuktzsbOMrm1qJbxYJXIOz8wRsMEQ+omv0YOFW8=",
+    "repository": "serizao/caidoPDF"
+  },
+  {
+    "id": "supascan",
+    "name": "SupaScan",
+    "license": "MIT",
+    "description": "Supabase misconfiguration scanner",
+    "author": {
+      "name": "Cha0s",
+      "email": "notcha0s@proton.me",
+      "url": "https://x.com/imnotcha0s"
+    },
+    "public_key": "MCowBQYDK2VwAyEAYBB6cTZK+iyvlD8t2USNPMdlFtLHyhoz3lw3ybSg3e8=",
+    "repository": "imnotcha0s/supascan-caido"
+  },
+  {
+    "id": "h1caido",
+    "name": "H1Caido",
+    "license": "MIT",
+    "description": "Bring your HackerOne programs, scopes and reward tables straight into Caido.",
+    "author": {
+      "name": "V3locidad",
+      "email": "v3locidad@v3locidad.com",
+      "url": "https://github.com/V3locidad"
+    },
+    "public_key": "MCowBQYDK2VwAyEAVIMaBTGYifd0X7/iRXLdxDlDajEyqx5XxkfoVIodqzs=",
+    "repository": "V3locidad/h1-caido"
+  },
+  {
+    "id": "caido-lookup",
+    "name": "Disclosure Lookup",
+    "license": "MIT",
+    "description": "Look up the security-disclosure contact for any host via lookup.disclose.io. Right-click a request to find where to report a vulnerability.",
+    "author": {
+      "name": "disclose.io",
+      "email": "hello@disclose.io",
+      "url": "https://github.com/disclose"
+    },
+    "public_key": "MCowBQYDK2VwAyEAxRcCJy1dsCeQVMKLtQBUuCv8T/FWI/5l2MiR3X/9Aw8=",
+    "repository": "disclose/caido-lookup"
+  },
+  {
+    "id": "path-crawler",
+    "name": "Path Crawler",
+    "license": "MIT",
+    "description": "Passive path discovery from proxied traffic \u2014 host-grouped sitemap, JS path extraction, and CDN referer labels.",
+    "author": {
+      "name": "0x2458",
+      "email": "bughunt0x2458@gmail.com",
+      "url": "https://github.com/0x2458bughunt"
+    },
+    "public_key": "MCowBQYDK2VwAyEALxJ9vDf8SKQOlKmL3UNm/VWuspD1mK1bZeN4uGBxRtU=",
+    "repository": "0x2458bughunt/caido-path-crawler"
+  },
+  {
+    "id": "vigolium",
+    "name": "Vigolium",
+    "license": "MIT",
+    "description": "Send Caido traffic to the Vigolium scanning engine, review findings, and bridge traffic with the Vigolium CLI and server",
+    "author": {
+      "name": "Vigolium",
+      "email": "jessie@vigolium.com",
+      "url": "https://github.com/vigolium/vigolium"
+    },
+    "public_key": "MCowBQYDK2VwAyEATha5rzZMhng0Bvv3hMGeOs/CSVUnRZRXmsQIRz8EIuk=",
+    "repository": "vigolium/caido-vigolium"
+  },
+  {
+    "id": "jssecrets",
+    "name": "JS Secrets",
+    "license": "MIT",
+    "description": "Scans proxied JavaScript files for leaked API keys, tokens and credentials",
+    "author": {
+      "name": "Diego Espindola",
+      "email": "espindola@protonmail.com",
+      "url": "https://github.com/diegoespindola"
+    },
+    "public_key": "MCowBQYDK2VwAyEAqsL7o+33q9Lo+f4QDXy8nvC/ZH8B+UQE2zt1xSKoMbc=",
+    "repository": "diegoespindola/jssecrets-caido-plugin"
+  },
+  {
+    "id": "race",
+    "name": "Race",
+    "license": "MIT",
+    "description": "Fire synchronized request bursts to catch HTTP race conditions.",
+    "author": {
+      "name": "Amr Elsagaei",
+      "email": "amr@caido.io",
+      "url": "https://amrelsagaei.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEA3u/vKRbgONuUKYaeprFbpWCjpclu2jNmYULZvlChuc0=",
+    "repository": "amrelsagaei/race"
   }
 ]
