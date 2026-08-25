@@ -817,5 +817,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAjAdpuBsAe14P2WCkuPaya0hEODbmFKZwS5NHg/RTacY=",
     "repository": "saltify7/Project-Minify"
+  },
+  {
+	"id": "race",
+	"name": "Race",
+	"license": "MIT",
+	"description": "Fire synchronized request bursts to catch HTTP race conditions.",
+	"author": {
+		"name": "Amr Elsagaei",
+		"email": "amr@caido.io",
+		"url": "https://amrelsagaei.com"
+	},
+	"public_key": "MCowBQYDK2VwAyEA3u/vKRbgONuUKYaeprFbpWCjpclu2jNmYULZvlChuc0=",
+	"repository": "amrelsagaei/race"
   }
 ]
