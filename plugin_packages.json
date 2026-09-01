@@ -999,5 +999,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAjpvyPGmqgAQyiXEN4DtR345SgvmnfptLcBQ2VVPnKKc=",
     "repository": "hahwul/ShadowShell"
+  },
+  {
+    "id": "ai-recon-watcher",
+    "name": "AI Recon Watcher",
+    "license": "MIT",
+    "description": "Passively watches HTTP traffic through Caido, stores every request/response as JSON, and flags tech-stack, AI-system, and attack-surface signals as Findings - no active probing.",
+    "author": {
+      "name": "ajayvb03",
+      "email": "ajaybechawade@gmail.com",
+      "url": "https://github.com/ajayvb03"
+    },
+    "public_key": "MCowBQYDK2VwAyEAgnmUjobDBDWX8tUlWSQwzQ5MEFDrKhe0FuolgALZ4aA=",
+    "repository": "ajayvb03/ai-recon-watcher"
   }
 ]
