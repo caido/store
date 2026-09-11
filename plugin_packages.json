@@ -1025,5 +1025,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAgXa3XzwD/2vXVi7JTGLtcc4hvyunDf18noFszltbXz0=",
     "repository": "six2dez/dispatch"
+  },
+  {
+    "id": "httpql-colorizer",
+    "name": "HTTPQL Colorizer",
+    "license": "MIT",
+    "description": "Colorize Caido HTTP History rows with ordered HTTPQL rules, draggable groups, and per-rule or group enable/disable controls.",
+    "author": {
+      "name": "phvietan",
+      "email": "phvietan@gmail.com",
+      "url": "https://github.com/phvietan/caido-httpql-colorizer"
+    },
+    "public_key": "MCowBQYDK2VwAyEAn7OpEDRkJSbX74ZkiqeqNAOVGuSB0gMI09Dh20LYigw=",
+    "repository": "phvietan/caido-httpql-colorizer"
   }
 ]
