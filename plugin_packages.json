@@ -26,6 +26,19 @@
     "repository": "caido-community/authmatrix"
   },
   {
+    "id": "saml-raider",
+    "name": "SAML Raider",
+    "license": "MIT",
+    "description": "SAML security testing.",
+    "author": {
+      "name": "Caido Labs Inc.",
+      "email": "dev@caido.io",
+      "url": "https://caido.io"
+    },
+    "public_key": "MCowBQYDK2VwAyEA3b6MvJ9iqjWfe46/f9dWqZqE8oYwBwMkuzFKsZvz79s=",
+    "repository": "caido-community/saml-raider"
+  },
+  {
     "id": "bypasser",
     "name": "403Bypasser",
     "license": "CC0-1.0",
