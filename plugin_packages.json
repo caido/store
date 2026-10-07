@@ -1,5 +1,18 @@
 [
   {
+    "id": "inspector",
+    "name": "Inspector",
+    "license": "MIT",
+    "description": "Save interesting requests to a persistent list for later review.",
+    "author": {
+      "name": "Jakob Pachmann",
+      "email": "jakob.pachmann@proton.me",
+      "url": "https://github.com/v0xyc0n"
+    },
+    "public_key": "MCowBQYDK2VwAyEA0uLlulDp0TC0Et3AMJWGgA8yTCHQA5znCNKz8MIlJs8=",
+    "repository": "v0xyc0n/caido-inspector"
+  },
+  {
     "id": "nextjs-actions-analyzer",
     "name": "Next.js Actions Analyzer",
     "license": "MIT",
@@ -1033,9 +1046,23 @@
     "description": "Extract and export Automate payloads directly to clipboard and custom wordlists in Caido.",
     "author": {
       "name": "Infat",
+      "email": "infat@proton.me",
       "url": "https://github.com/infat0x"
     },
     "public_key": "MCowBQYDK2VwAyEAE1CkuezrR96sNu1X0zLmnfsG/EWhP55epbccbtSvi5c=",
     "repository": "infat0x/cape"
+  },
+  {
+    "id": "defminer",
+    "name": "DefMiner",
+    "license": "MIT",
+    "description": "Passive JavaScript inventory for Caido: stores every script a target serves once by digest, reconstructs original sources from inline source maps, and retroactively scans traffic captured before it was installed.",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez"
+    },
+    "public_key": "MCowBQYDK2VwAyEAbttdEsqRZEFeMGU63rS241Q+KTc9oARmL1/SBw5LE/U=",
+    "repository": "six2dez/DefMiner"
   }
 ]
