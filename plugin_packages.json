@@ -1040,6 +1040,19 @@
     "repository": "six2dez/dispatch"
   },
   {
+    "id": "automate-payload-extractor",
+    "name": "Automate Payload Extractor",
+    "license": "MIT",
+    "description": "Extract and export Automate payloads directly to clipboard and custom wordlists in Caido.",
+    "author": {
+      "name": "Infat",
+      "email": "infat@proton.me",
+      "url": "https://github.com/infat0x"
+    },
+    "public_key": "MCowBQYDK2VwAyEAE1CkuezrR96sNu1X0zLmnfsG/EWhP55epbccbtSvi5c=",
+    "repository": "infat0x/cape"
+  },
+  {
     "id": "defminer",
     "name": "DefMiner",
     "license": "MIT",
