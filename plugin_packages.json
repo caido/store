@@ -1077,5 +1077,17 @@
     },
     "public_key": "MCowBQYDK2VwAyEAbttdEsqRZEFeMGU63rS241Q+KTc9oARmL1/SBw5LE/U=",
     "repository": "six2dez/DefMiner"
+  },
+  {
+    "id": "pwnfoxy",
+    "name": "PwnFoxy",
+    "license": "MIT",
+    "description": "Integration with the PwnFoxy browser extension. Colors HTTP request rows based on Firefox container colors.",
+    "author": {
+      "name": "shadowe1ite",
+      "url": "https://github.com/shadowe1ite"
+    },
+    "public_key": "MCowBQYDK2VwAyEA4FV0S2Sl6NSunrgBvx42f0pMYOHBJNqLD19YJp3h4wI=",
+    "repository": "shadowe1ite/pwnfoxy"
   }
 ]
