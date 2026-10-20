@@ -1077,5 +1077,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAbttdEsqRZEFeMGU63rS241Q+KTc9oARmL1/SBw5LE/U=",
     "repository": "six2dez/DefMiner"
+  },
+  {
+    "id": "pixel-coordinate",
+    "name": "Pixel Coordinate",
+    "license": "MIT",
+    "description": "Hover over rendered images to see pixel coordinates. Click to freeze the coordinate, then click Clear to reset.",
+    "author": {
+      "name": "ruzfi",
+      "email": "riyan@ruz.fi",
+      "url": "https://github.com/ruzfi"
+    },
+    "public_key": "MCowBQYDK2VwAyEAHn6xFs3ZtUvY/eFxrIoVtoaGEnrMQmywLnM9Qp3rH3g=",
+    "repository": "ruzfi/pixel-coordinate"
   }
 ]
