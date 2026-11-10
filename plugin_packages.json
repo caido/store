@@ -1090,5 +1090,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAHn6xFs3ZtUvY/eFxrIoVtoaGEnrMQmywLnM9Qp3rH3g=",
     "repository": "ruzfi/pixel-coordinate"
+  },
+  {
+    "id": "wsdler",
+    "name": "Wsdler",
+    "license": "MIT",
+    "description": "Parse WSDLs (right-click a request or import a file) and get ready-to-send SOAP requests for every operation, with custom headers. Port of NetSPI's Wsdler for Burp.",
+    "author": {
+      "name": "burkocyigit",
+      "email": "brkkcygt32@gmail.com",
+      "url": "https://github.com/burkocyigit/wsdler-caido"
+    },
+    "public_key": "MCowBQYDK2VwAyEAooO28SYpwNV2rcEG8zH/HLmz1sRqvQ2AbVhVD8KpKIc=",
+    "repository": "burkocyigit/wsdler-caido"
   }
 ]
