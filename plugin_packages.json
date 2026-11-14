@@ -1103,5 +1103,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAooO28SYpwNV2rcEG8zH/HLmz1sRqvQ2AbVhVD8KpKIc=",
     "repository": "burkocyigit/wsdler-caido"
+  },
+  {
+    "id": "privara-ios-kit",
+    "name": "Privara iOS kit",
+    "license": "Apache-2.0",
+    "description": "Privara iOS Analysis inside Caido: an iOS app's backend API map, scoped to your engagement, to Replay and a Caido scope; findings; request signing. Needs a Privara account (paid service).",
+    "author": {
+      "name": "TAJ APPS LLC",
+      "email": "ali@tajapps.com",
+      "url": "https://tajapps.com"
+    },
+    "public_key": "MCowBQYDK2VwAyEAbHGNi+kWWGd3+hwOw7/cUJO6pyK4WSUX/M4yxkSUYr0=",
+    "repository": "alitajbakhsh/privara-caido"
   }
 ]
